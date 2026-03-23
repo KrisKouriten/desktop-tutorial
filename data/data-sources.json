@@ -1,0 +1,41 @@
+{
+  "description": "Data sources used to populate the UK retail financial newsletter",
+  "sources": [
+    {
+      "name": "Office for National Statistics (ONS)",
+      "url": "https://www.ons.gov.uk",
+      "datasets": ["Retail Sales Index", "CPI / CPIH", "Labour Market Statistics", "GDP Estimates"],
+      "frequency": "Monthly"
+    },
+    {
+      "name": "British Retail Consortium (BRC)",
+      "url": "https://brc.org.uk",
+      "datasets": ["BRC-KPMG Retail Sales Monitor", "BRC Footfall & Vacancies Monitor"],
+      "frequency": "Monthly"
+    },
+    {
+      "name": "GfK Consumer Confidence",
+      "url": "https://www.gfk.com",
+      "datasets": ["UK Consumer Confidence Barometer"],
+      "frequency": "Monthly"
+    },
+    {
+      "name": "IMRG",
+      "url": "https://www.imrg.org",
+      "datasets": ["IMRG Online Retail Index"],
+      "frequency": "Monthly"
+    },
+    {
+      "name": "Bank of England",
+      "url": "https://www.bankofengland.co.uk",
+      "datasets": ["Base Rate Decisions", "Money and Credit Statistics", "Financial Stability Reports"],
+      "frequency": "Monthly / Quarterly"
+    },
+    {
+      "name": "London Stock Exchange / LSEG",
+      "url": "https://www.londonstockexchange.com",
+      "datasets": ["Share Prices", "FTSE Index Data"],
+      "frequency": "Daily"
+    }
+  ]
+}

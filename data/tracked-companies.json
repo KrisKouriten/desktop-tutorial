@@ -1,0 +1,25 @@
+{
+  "description": "UK retail companies tracked in the monthly financial newsletter",
+  "last_updated": "2026-03-23",
+  "sectors": {
+    "grocery_food": [
+      { "name": "Tesco", "ticker": "TSCO.L", "isin": "GB00BLGZ9862", "segment": "Supermarket" },
+      { "name": "Sainsbury's", "ticker": "SBRY.L", "isin": "GB00B019KW72", "segment": "Supermarket" },
+      { "name": "Marks & Spencer", "ticker": "MKS.L", "isin": "GB0031274896", "segment": "Food & Clothing" },
+      { "name": "Ocado Group", "ticker": "OCDO.L", "isin": "GB00B3MBS747", "segment": "Online Grocery / Technology" }
+    ],
+    "general_merchandise_fashion": [
+      { "name": "Next", "ticker": "NXT.L", "isin": "GB0032089863", "segment": "Fashion & Home" },
+      { "name": "Associated British Foods (Primark)", "ticker": "ABF.L", "isin": "GB0006731235", "segment": "Value Fashion" },
+      { "name": "JD Sports", "ticker": "JD.L", "isin": "GB00BYX91H57", "segment": "Sports Fashion" },
+      { "name": "Frasers Group", "ticker": "FRAS.L", "isin": "GB00B1QH8P22", "segment": "Sports & Luxury Retail" },
+      { "name": "boohoo Group", "ticker": "BOO.L", "isin": "GB00BJQT1J68", "segment": "Online Fashion" }
+    ],
+    "home_diy_specialty": [
+      { "name": "Kingfisher (B&Q)", "ticker": "KGF.L", "isin": "GB0033195214", "segment": "Home Improvement" },
+      { "name": "Dunelm", "ticker": "DNLM.L", "isin": "GB00B19NLV48", "segment": "Homewares" },
+      { "name": "WHSmith", "ticker": "SMWH.L", "isin": "GB00B2PDGW16", "segment": "Books & Travel Retail" },
+      { "name": "Pets at Home", "ticker": "PETS.L", "isin": "GB00BJ62K685", "segment": "Pet Retail & Services" }
+    ]
+  }
+}
