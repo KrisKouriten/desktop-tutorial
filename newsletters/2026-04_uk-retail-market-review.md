@@ -349,73 +349,86 @@ CMA published updated supply chain guidance (22 January 2026). Retailers cannot 
 
 ### ONS Retail Sales (February 2026 -- Latest Available)
 
-| Indicator | Value | MoM | YoY |
+| Indicator | Value | MoM Change | YoY Change |
 |---|---|---|---|
 | Total Retail Sales Volume | Index 100.4 | -0.4% | +2.5% |
-| Food Store Sales | Declined | Fell back post-Jan | Moderate growth |
-| Non-Food Store Sales | Mixed | Fell | Weak |
+| Food Store Sales | Declined | Fell back after Jan rise | Moderate growth |
+| Non-Food Store Sales | Weak | Below trend | Subdued |
 | Online Retail (% of total) | 28.2% | +0.2pp | Stable |
 | Average Weekly Internet Sales | GBP 2.7bn | -- | -- |
 
-March 2026 ONS retail sales data releases 24 April 2026.
+Key drivers: Supermarket sales fell back after a strong January. Non-store retailers also declined, with consumers having brought forward spending to January to maximise discounting. Above-average February rainfall dampened footfall. March 2026 data releases 24 April.
 
-### BRC-KPMG Retail Sales Monitor (February 2026)
+### BRC-KPMG Retail Sales Monitor
 
-| Metric | Value | Trend |
+| Period | Like-for-Like YoY | Total YoY | Commentary |
+|---|---|---|---|
+| January 2026 | +2.3% | +2.7% | Fastest growth since August |
+| February 2026 | +0.7% | +1.1% | Weakest in 9 months; wet weather |
+| March 2026 (preview) | ~+1.0% est. | ~+1.5% est. | Mother's Day boost; spring collections |
+
+February breakdown: Food sales +2.9% (below 12-month average of 3.8%); Non-food -0.4% (vs average +1.0%). Online non-food fell 1.3%. Valentine's Day provided a small bright spot (jewellery, watches, perfume).
+
+### Barclaycard Consumer Spending (February 2026)
+
+| Category | YoY Growth | Trend |
 |---|---|---|
-| Like-for-like sales (YoY) | +0.7% | Weakest in 9 months |
-| Total sales (YoY) | +1.1% | Below 12m avg of 2.3% |
-| Food sales (YoY) | +2.9% | Below 12m avg of 3.8% |
-| Non-food sales (YoY) | -0.4% | Below avg +1.0% |
-| Online non-food (YoY) | -1.3% | Vs +1.9% last year |
-| Online penetration rate | 36.1% | Down from 36.3% |
-
-Helen Dickinson (BRC): *"February's grey, wet weather hit retail sales hard."*
-
-### Barclays Consumer Spend Report (February 2026)
-
-Overall card spending grew just 1.0% YoY -- below CPIH inflation of 3.2%, meaning real spending declined.
-
-| Category | YoY Change | Trend |
-|---|---|---|
-| Essential spending | -0.6% | 7th consecutive month of decline |
-| Non-essential spending | +1.8% | Highest since Aug 2025 |
-| Clothing | +3.7% | Best since Aug 2025 |
-| Health & beauty | +6.4% | Strong |
-| Hospitality & leisure | +3.6% | Moderate growth |
-| Restaurants | +2.9% | Steady |
-| Bars & pubs | +3.3% | Steady |
+| Overall Card Spending | +1.0% | Below CPIH 3.2% = real decline |
+| Essential Spending | -0.6% | 7th consecutive month of decline |
+| Non-Essential Spending | +1.8% | 6-month high |
+| Clothing | +3.7% | Best since August 2025 |
+| Health & Beauty | +6.4% | Continued strong growth |
 | Entertainment | +9.9% | 11-month high |
-| Digital content/subscriptions | +9.3% | Strong |
+| Hospitality & Leisure | +3.6% | Restaurants +2.9%, Bars +3.3% |
+| Digital/Streaming | +9.3% (Jan) | Structural growth |
 
-**Consumer concerns:** 82% worried about Middle East impact on fuel costs; 81% on energy bills; 78% on inflation; 76% on food prices. 46% taking active steps: cutting energy use (16%), reducing discretionary spend (13%), building savings (10%).
+Consumer concerns: 82% worried about Middle East impact on fuel costs; 81% on energy bills; 78% on inflation; 76% on food prices. 46% taking active steps to cut back.
 
-### Kantar Grocery Market Share (Latest Available: 12 weeks to 28 Dec 2025)
+### Kantar Grocery Market Share (Latest: 12 weeks to 28 Dec 2025)
 
-| Retailer | Market Share | YoY Change |
-|---|---|---|
-| Tesco | 28.7% | +0.2pp (highest since 2015) |
-| Sainsbury's | 16.3% | +0.3pp |
-| Asda | 11.4% | -- |
-| Aldi | 10.2% | Losing share |
-| Lidl | 7.8% | +0.5pp (record) |
-| Ocado | 2.1% | +0.2pp (fastest growing) |
+| Retailer | Market Share | YoY Change | Sales Growth |
+|---|---|---|---|
+| Tesco | 28.7% | +0.2pp | +4.3% |
+| Sainsbury's | 16.3% | +0.3pp | +3.9% |
+| Asda | 12.8% | -0.5pp | -1.2% |
+| Aldi | 10.2% | -0.1pp | +1.8% |
+| Lidl | 7.8% | +0.5pp | +11.2% |
+| Morrisons | 8.4% | -0.2pp | +0.6% |
+| Ocado | 2.1% | +0.2pp | +15.0% |
 
-Grocery market growth accelerated to 4.4% in the 4 weeks to 22 March. Updated March 2026 Kantar data expected imminently.
+Grocery market growth accelerated to 4.4% (4 weeks to 22 March). Tesco's market share at a decade high. Lidl and Ocado the fastest-growing grocers.
+
+### GfK Consumer Confidence (March 2026)
+
+Survey of 2,001 individuals aged 16+ (2-16 March 2026):
+
+| Component | Score | MoM | YoY |
+|---|---|---|---|
+| Overall Index | -21 | -2 | -2 |
+| Personal Finances (last 12m) | -7 | 0 | +2 |
+| Personal Finances (next 12m) | +1 | -1 | -1 |
+| General Economy (last 12m) | -43 | +1 | +3 |
+| General Economy (next 12m) | -37 | -6 | -8 |
+| Major Purchase Index | -18 | -4 | -1 |
+| Savings Index | +27 | +6 | +2 |
+
+The collapse in economic expectations (-6pts) and Major Purchase Index (-4pts) alongside rising Savings Index (+6pts) confirms households are shifting into defensive mode.
+
+### Deloitte Consumer Tracker (Q4 2025)
+
+Consumer confidence fell to -11.1% -- lowest in two years. Overall net spending on leisure declined for the second consecutive quarter. Among consumers spending less: 32% cutting luxuries; 39% self-described as "frugal"; 25% spending only on essentials. Spending intentions on eating out expected to decline -9.7pp; pubs/bars -9.6pp.
 
 ### Regional Spend Patterns (ONS/Visa Card Spending Analysis)
 
-| Region | Key Trend |
+| Region | Key Characteristics |
 |---|---|
-| London & South East | Largest by card spend; online share 47% (highest); face-to-face still below 2019 |
-| North East | Face-to-face spend at highest since 2019 |
-| West Midlands | Face-to-face spend at highest since 2019 |
-| Wales | Face-to-face recovering strongly |
-| Scotland | 87% of face-to-face stays in-region (highest); 39% online / 61% face-to-face |
+| London & South East | Largest card spend share; highest online proportion (47%); face-to-face below 2019 levels |
+| North East, West Midlands, Wales, Yorkshire | Face-to-face spend at highest levels since 2019 |
+| Scotland | 87% of face-to-face spend stays within region (highest UK); 39% online / 61% in-store |
 | Northern Ireland | Lowest online share at 36% |
-| South West | Severely impacted by flooding; footfall disrupted |
+| North West, South West | Monthly spend close to 2019 levels but patchy recovery |
 
-Recovery described as "K-shaped": clear split between affluent and constrained consumers, and between southern/eastern and northern/western regions.
+Recovery described as "K-shaped": clear bifurcation between affluent southern consumers and constrained northern/western regions, and between grocery (resilient) and discretionary (weak).
 
 ---
 
@@ -423,43 +436,102 @@ Recovery described as "K-shaped": clear split between affluent and constrained c
 
 ### Grocery & Food Retail
 
-| Company | Ticker | Key Performance | Share Price Trend |
-|---|---|---|---|
-| **Tesco** | TSCO.L | UK LFL +3.7%; Christmas +3.2%; market share 28.7% (decade high); online +11.2%; Whoosh +47%; raised profit guidance to upper end of GBP 2.9-3.1bn range | 476.9p; Buy consensus; target 500p |
-| **Sainsbury's** | SBRY.L | LFL +4.5%; retail sales ex-fuel +4.8% to GBP 15.6bn; raised FY profit guidance to >GBP 1bn; GBP 250m special dividend planned; GBP 200m buyback complete | 346.4p; Buy; target 350p |
-| **M&S** | MKS.L | Food +6.6% (market share 4.0%, historic high); C&H -2.9% (cyberattack drag); H1 PBT fell 55% to GBP 184.1m; Ocado Retail +13.7% | 327p; Buy; target 428p (+32% upside) |
-| **Ocado** | OCDO.L | Fastest growing grocer; 2.1% share (+0.2pp); sales +15% (12 weeks to Dec 2025) | Volatile; technology platform progress key |
+**Tesco (TSCO.L)** -- Q3 & Christmas (19 weeks to 3 Jan 2026)
+| Metric | Value |
+|---|---|
+| UK LFL Sales | +3.7% |
+| Christmas Period LFL | +3.2% |
+| Fresh Food LFL | +6.6% |
+| Finest Range | +13.0% (party food +22%) |
+| Online Sales | +11.2% (reaching 70% of UK households) |
+| Whoosh Delivery | +47% |
+| Market Share | 28.7% (decade high) |
+| Profit Guidance | Upper end of GBP 2.9-3.1bn range |
+| Share Price | ~477p |
+| Analyst Consensus | Buy; target 500p |
+
+Note: April tax increases cost Tesco GBP 235m; new packaging rules added GBP 90m.
+
+**Sainsbury's (SBRY.L)** -- H1 FY2025/26
+| Metric | Value |
+|---|---|
+| Retail Underlying Operating Profit | GBP 504m (+0.2%) |
+| LFL Sales | +4.5% |
+| Retail Sales ex-Fuel | GBP 15.6bn (+4.8%) |
+| Full-Year Profit Guidance | Raised to >GBP 1bn |
+| Market Share | 16.3% (near-decade high) |
+| Share Price | ~346p |
+| Analyst Consensus | Buy; target 350p |
+| Special Dividend | GBP 250m (from Sainsbury Bank sale) |
+
+**Marks & Spencer (MKS.L)** -- Q3 Christmas (13 weeks to 27 Dec 2025)
+| Metric | Value |
+|---|---|
+| Food Underlying Sales | +6.6% (LFL +5.6%, volume +2.3%) |
+| Food Market Share | 4.0% (historic high) |
+| Clothing & Home Sales | -2.9% (cyberattack recovery) |
+| Ocado Retail Sales | +13.7% |
+| H1 Statutory PBT | GBP 184.1m (-55% due to cyberattack) |
+| Share Price | ~327p |
+| Analyst Consensus | Buy; target 428p (~32% upside) |
+| Investment | GBP 70m in store colleague pay |
 
 ### General Merchandise & Fashion
 
-| Company | Ticker | Key Performance | Share Price Trend |
-|---|---|---|---|
-| **Next** | NXT.L | PBT GBP 1,158m (+14.5%); revenue GBP 6.90bn (+12.8%); UK full-price sales +5.9%, international +38%; FY27 guidance: PBT GBP 1,210m; GBP 500m buyback | ~12,000p; Buy; target 14,792p (+24% upside) |
-| **Primark/ABF** | ABF.L | Revenue GBP 3.5bn; UK LFL +1.7% with share gains; EU LFL -5.7%; US +12%; cut FY profit guidance; demerger decision expected April | Under pressure |
-| **JD Sports** | JD.L | Q4 organic +1.4%; LFL -1.8%; North America LFL +5.3% (standout); FY PBT expected GBP 849m (-8%); GBP 200m buyback complete | Weak; results 7 May |
-| **boohoo** | BOO.L | Annual profits on track to "comfortably" beat guidance; turnaround gaining momentum | Recovery |
+**Next (NXT.L)** -- FY ending January 2026 (reported 26 March)
+| Metric | Value |
+|---|---|
+| Pre-Tax Profit | GBP 1,158m (+14.5%) |
+| Revenue | GBP 6.90bn (+12.8%) |
+| Full-Price Sales | +10.9% (UK +5.9%, International +38%) |
+| EPS | 745.4p (+17.0%) |
+| FY 2026/27 Guidance | PBT GBP 1,210m (+4.5%); GBP 500m buyback |
+| Special Dividend | GBP 3.10/share |
+| Analyst Consensus | Buy; target 14,792p (~24% upside) |
+
+**Primark / ABF (ABF.L)** -- Q1 FY2026 (16 weeks to 3 Jan 2026)
+| Metric | Value |
+|---|---|
+| Total Primark Revenue | GBP 3.5bn |
+| UK LFL | +1.7% (market share gains) |
+| Total UK Sales | +3% |
+| Continental Europe LFL | -5.7% |
+| US Sales | +12% |
+| Outlook | ABF cut full-year profit/EPS guidance; potential demerger decision April |
+
+**JD Sports (JD.L)** -- Q4 FY2025/26
+| Metric | Value |
+|---|---|
+| Q4 Organic Sales | +1.4% |
+| LFL Sales | -1.8% |
+| North America LFL | +5.3% (standout) |
+| FY PBT Expected | GBP 849m (-8.0% YoY) |
+| Free Cash Flow Target | GBP 400m |
+| Buyback Completed | GBP 200m |
+| FY Results | 7 May 2026 |
+
+**boohoo Group (BOO.L):** Annual profits on track to "comfortably" beat guidance; turnaround gaining momentum.
 
 ### Home, DIY & Specialty
 
-| Company | Ticker | Key Performance | Share Price Trend |
-|---|---|---|---|
-| **Kingfisher (B&Q)** | KGF.L | Adjusted PBT GBP 560m; e-commerce +20% (ex-Screwfix); AI recommendations GBP 165m; marketplaces live all regions | Downgraded to Sell (Deutsche Bank); target cut to 180p |
-| **Currys** | CURY.L | Relatively robust trading; benefiting from electronics event-driven demand | Moderate |
+**Kingfisher / B&Q (KGF.L)**
+| Metric | Value |
+|---|---|
+| Adjusted PBT | GBP 560m (year ending Jan 2026) |
+| E-commerce Sales | +20% (ex-Screwfix) |
+| AI Revenue | GBP 165m from AI product recommendations |
+| Analyst View | Downgraded to Sell by Deutsche Bank; target cut to 180p |
 
-### Notable Casualties & Restructuring (2026 YTD)
+### Companies on Watch
 
-- Game Retail, Claire's, Original Factory Shop among failures
-- Poundland, River Island in restructuring
-- 2025 total: 17,349 store closures, 201,953 redundancies (Centre for Retail Research)
-
-### Key Themes
-
-1. **Real spending declining:** Card spending +1.0% vs CPIH +3.2% = negative real growth
-2. **K-shaped recovery:** Grocery/value resilient; discretionary/non-food weak
-3. **Grocery outperformance:** Market growth 4.4%; Tesco, Sainsbury's, M&S gaining share
-4. **Retailer failures continuing:** Consolidation accelerating ahead of April cost wall
-5. **Household savings rate elevated:** 9-10% of income, constraining discretionary spend
-6. **2026 volume outlook:** Retail/hospitality/leisure spending volumes forecast to rise just 0.4% (Retail Economics/PwC)
+| Company | Reason |
+|---|---|
+| M&S | Cyberattack recovery trajectory; Clothing & Home turnaround |
+| ABF/Primark | Potential demerger decision in April |
+| JD Sports | FY results 7 May; weak LFL trend |
+| Boohoo | Turnaround credibility test |
+| Game Retail, Claire's | Among recent retail casualties |
+| Poundland, River Island | In restructuring |
 
 ---
 
