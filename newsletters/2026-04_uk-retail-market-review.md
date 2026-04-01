@@ -742,6 +742,235 @@ This newsletter is produced for informational purposes only and does not constit
 
 ---
 
+## Appendix: Kouriten Store Network -- Regional Insights (32 Locations)
+
+---
+
+### LONDON (12 Stores)
+
+#### Oxford Street (W1D 1LL)
+- **Pedestrianisation approved:** Oxford Street Development Corporation (OSDC) launched 1 Jan 2026. Traffic-free zone targeted by September 2026 (Great Portland St to Orchard St)
+- **Footfall currently 57% of 2006 levels**, but pilot car-free days showed 45% uplift. Analysts project 5-10% annual sales growth post-pedestrianisation (~GBP 2.8bn additional revenue)
+- **Crime improving:** Additional 80 officers; mobile phone theft down 12.3%; theft from person down 18.2% YoY
+- **Risk:** Construction disruption through 2026-27; bus rerouting may cause congestion
+- **Outlook:** Transformational moment -- Selfridges and John Lewis strongly supportive
+
+#### Bond Street (W1C 2JR)
+- **Directly benefits from Oxford Street pedestrianisation** -- sits within the planned car-free zone
+- **Luxury corridor** remains London's prime pitch; pedestrianisation will increase dwell time
+- **GBP 4.5m investment** in mobile phone theft crackdown including drones and e-bike police patrols
+- **Risk:** Construction disruption during transition (summer 2026 onwards)
+
+#### Shaftesbury Avenue (W1D 6ND)
+- **Theatre-driven footfall** strong: Avenue Q revival (until Aug 2026), Shaftesbury Theatre refurb underway
+- **New restaurant brands** (Dave's Hot Chicken flagship) driving evening/weekend footfall
+- **Edge Shaftesbury** mixed-use redevelopment (125 Shaftesbury Ave) adding commercial and retail space
+- **Risk:** Refurb works may temporarily reduce passing trade; West End crime remains a concern
+
+#### Westfield Shepherd's Bush (W12 7GF)
+- **Stable at ~28 million visitors annually**; Europe's largest shopping/leisure destination (450+ stores)
+- **White City regeneration zone** has attracted over GBP 8bn of inward investment since 2008
+- **Risk:** National shopping centre footfall trending down for 8 consecutive months into early 2026
+- **Opportunity:** Scale and leisure mix provide insulation; strong transport links
+
+#### Brent Cross (NW4 3FB)
+- **Strongest growth story on the network.** GBP 100m redevelopment adding 150 new stores, expanded M&S, revamped Waitrose, 20-screen Everyman Cinema. Full completion 2027
+- **GBP 8bn Brent Cross Town** regeneration: 932 homes completed by March 2026; Sheffield Hallam campus opening summer 2026; 44 acres of new parkland from April 2026
+- **Brent Cross West station** now handles 2,000 daily journeys; 12 minutes to central London
+- **Outlook:** Major upside potential from expanding residential catchment
+
+#### Camden (NW1 8QR)
+- **Camden Market draws 250,000 visitors/week** with 1,000 independent traders
+- **UMusic Shop** (Universal Music Group) opened -- immersive installations and live performances
+- **Lower RHL multipliers from April 2026** for properties under GBP 500k RV; additional 15% relief for pubs/live music
+- **Risk:** Heavy tourist dependency; vulnerable to weather-related footfall dips
+
+#### Ealing Broadway (W5 5JY) -- 2 stores
+- **Elizabeth line connectivity** driving footfall (fast links to Paddington, Heathrow, Canary Wharf)
+- **New tenants:** Hotel Chocolat (with Velvetiser Cafe), Oliver Bonas, MINISO, Newbie all opened in past year
+- **Active events programme** including Easter face-painting (April 2026) driving family footfall
+- **Risk:** 85-unit centre is relatively small; vulnerable if anchor tenants depart
+
+#### Hammersmith Broadway (W6 9YD)
+- **30+ million annual visits** driven by major transport interchange
+- **Commuter-oriented tenant mix:** 110,000 sq ft, 40+ stores (Tesco Express, Boots, Pret, Popeyes)
+- **Risk:** Heavily commuter-dependent; vulnerable to remote-working trends
+- **Opportunity:** Proximity to Westfield creates overflow potential; strong grab-and-go positioning
+
+#### Victoria Place (SW1W 9SJ)
+- **10.25 million annual visitors** across 83,000 sq ft; three station-linked entrances
+- **Tourist gateway** (Victoria Coach Station, Gatwick Express) provides consistent international flows
+- **Risk:** Commuter-dependent; hybrid working reduces weekday peaks
+- **Opportunity:** Consistent baseline from transport interchange traffic
+
+#### Wembley (HA9 0FD)
+- **5,000 build-to-rent apartments** being delivered by 2026; GBP 2.8bn+ invested by Quintain
+- **London Designer Outlet:** 70+ stores at 30-70% off RRP, 350,000 sq ft; BOXPARK adds indie F&B
+- **Stadium and Arena events** drive major footfall spikes -- key for staffing/stock planning
+- **Outlook:** Rapidly growing residential population expands local customer base beyond events
+
+#### Croydon Whitgift (CR0 1LP)
+- **HIGHEST RISK LOCATION.** For every kiosk opened in 2025, five stores left. Tenant relations strained
+- **URW "North End Quarter" masterplan:** 3,000 flats, two-thirds reduction in retail space. Planning deadline Feb 2026. Potential site sale explored in mid-2025
+- **Wider regeneration proceeding:** College Green, Regina Road, Centrale upgrades
+- **Recommendation:** Not recommended for new retail commitments without clarity on URW's plans
+
+#### Kingston (KT1 1NX)
+- **Ranked 3rd in Newmark Vitality Ranking**; 18 million visitors/year; 1.4 million sq ft retail
+- **GBP 400m Eden Walk redevelopment approved:** 380 homes, cinema, 28 retail units, 12 restaurants
+- **Unilever's new global HQ** (Eden Campus) opening 2026, bringing significant daytime worker population
+- **Dunelm confirmed** for Clarence Street in 2026
+- **Outlook:** Strong fundamentals with multiple growth catalysts
+
+---
+
+### SCOTLAND (5 Stores)
+
+#### Glasgow Braehead (G51 4BN)
+- **Footfall rising:** 16.3m visitors/year, projected 17.6m by end of 2026
+- **GBP 12m investment:** SuperPark (Finland-based, 30,000 sq ft UK debut); K1 indoor e-karting replacing former ski slope; JD Sports expanding to 18,000 sq ft
+- **Leisure-led strategy** differentiating from pure-retail competitors; driving dwell time
+- **Risk:** Scottish business rates 54.8p vs 43p in England for larger units
+
+#### Glasgow Buchanan Street (G1 2LW)
+- **17m annual footfall;** rents ~GBP 250/sq ft (6th highest in UK)
+- **New lettings:** Castore, Rituals opening; Nike flagship refurbished to 1,275 sqm
+- **Forsyth House fire** (8 March) disrupted city-centre trading; 5.75% footfall drop in fire week
+- **Buchanan Galleries redevelopment uncertainty** creates medium-term upper-street risk
+- **April events:** Peter Kay at OVO Hydro (3-4 Apr), Springfest food festival, multiple arena shows
+
+#### Glasgow Central Station (G1 3SQ)
+- **Transport hub advantage** at nexus of Buchanan Street and Argyle Street footfall corridors
+- **Scottish Retail Crime Taskforce** (GBP 3m/year, renewed 3 years): 3,671 shoplifting charges in first year; Glasgow priority area
+- **Commuter-captive audience** and event traffic (OVO Hydro, SEC) provide resilient baseline
+- **Risk:** Shared proximity to Forsyth House fire zone caused some March disruption
+
+#### Livingston Centre (EH54 6HR)
+- **12 new openings since early 2025**, creating 100+ jobs (Wingstop, Flying Tiger, MINISO, Starbucks)
+- **Hollywood Bowl** (22 lanes) due 2026; JD Sports expanding from 9,500 to 14,800 sq ft
+- **Marble Buffet** (380-seat) -- first of its kind in a Scottish mall
+- **Risk:** Car-dependent; sensitive to fuel costs. Higher Scottish business rates
+- **Opportunity:** West Lothian's growing residential population; lack of competing regional centres
+
+#### Stirling Thistles Centre (FK8 2EA)
+- **Anchors stable:** M&S (Retailer of the Year, Stirling Business Awards 2026), Primark, JD Sports, Costa
+- **Easter events:** Egg-Stravaganza and Wolf Pack Kids' Club in partnership with Start Up Stirling
+- **New Corbiewood Primary School** (opening Aug 2026) signals residential growth in catchment
+- **Risk:** Smaller catchment; competition from Falkirk and Glasgow. Limited new openings for 2026
+
+---
+
+### SOUTH & SOUTH EAST (7 Stores)
+
+#### Brighton Churchill Square (BN1 2TF) & North Street (BN1 1EB)
+- **Vacancy rate just 4%** (well below national average); strong tourism and student population
+- **Ikea's purchase of Churchill Square** and occupation of former Debenhams has been a major footfall driver; H&M opened flagship in former Topshop unit
+- **Risk:** River Island closed Brighton store (part of 32 national closures). Independent traders face ongoing cost pressures
+- **February footfall nationally** fell 4.7% YoY due to severe wet weather
+
+#### Windsor Royal Station (SL4 1PJ)
+- **Premium positioning** opposite Windsor Castle with upmarket tenants (Jigsaw, Whistles, Jo Malone, Space NK)
+- **Tourism-dependent:** Footfall tied to Castle visitor numbers and international tourism
+- **No major new openings** announced for early 2026; offer remains stable
+- **Risk:** Premium rents limit diversity; exposure to discretionary spending downturns
+
+#### Eastbourne Beacon Centre (BN21 3NW)
+- **Sostrene Grene opening 10 April 2026** -- first Eastbourne store; vote of confidence
+- **Established offer:** M&S, Primark, H&M, Pandora, Boots, 8-screen cinema
+- **Older demographic** supports steady but unspectacular footfall; tourism provides seasonal uplift
+- **Good accessibility:** 1,300-space car park directly above shops
+
+#### Oxford Westgate (OX1 1PE)
+- **LEGO opened 15 February 2026** (brand's 22nd UK store, first in Oxford) -- experiential family draw
+- **Premium destination:** 800,000 sq ft, 100+ global brands, 30+ restaurants, boutique cinema, rooftop dining
+- **Unique tourist and academic catchment** supports premium rents; limited competing modern retail
+- **Risk:** Primarily macro (consumer confidence, cost of living)
+
+---
+
+### MIDLANDS & EAST (5 Stores)
+
+#### Nottingham Victoria Centre (NG1 3QL)
+- **Victoria's Secret opened 27 March 2026** (6,000 sq ft) targeting 63% female visitor base and 65,000-strong student population
+- **20 million annual visitors**, 120+ stores; John Lewis and House of Fraser anchors; integrated bus station and tram
+- **Events active:** Nottingham College creative showcase (28 Mar - 1 Apr)
+- **Opportunity:** Growing affluent and student demographics support premium brand expansion
+
+#### Milton Keynes Centre:MK (MK9 3ES)
+- **Outperforming nationally:** January sales +3.0% YoY (vs national -0.7%); February +5.6% (vs national -4.0%)
+- **Major Midsummer Place redevelopment:** Sostrene Grene (Aug 2026), Hollister flagship (8,231 sq ft, 10-year lease), Popeyes, Lane7 all confirmed
+- **Strong brand mix:** Apple, BOSS, Flannels, LEGO, Victoria's Secret, Tesla, Zara
+- **Risk:** Construction disruption through 2026
+
+#### Telford Centre (TF3 4BP)
+- **Stable but quiet:** 300,000 weekly footfall (15m/year), 175+ stores (Frasers, Sports Direct, Primark, M&S)
+- **No major new lettings** or developments announced for early 2026
+- **Risk:** Lack of investment momentum vs peers; reliance on value-oriented anchors
+- **Opportunity:** If new leisure/experiential tenants secured, could unlock growth
+
+#### Peterborough Queensgate (PE1 1NT)
+- **Umami (COSMO Group) signed 15-year lease** (7,064 sq ft) expanding dining alongside ODEON, Frasers, Flannels
+- **GBP 65m Station Quarter development:** City Link pedestrian route works begin May 2026, creating direct gateway from train station to Cowgate
+- **Risk:** Construction disruption from City Link works
+- **Opportunity:** Improved station connectivity once complete will boost footfall significantly
+
+#### Luton Point (LU1 2TJ)
+- **Rebranded from "The Mall"** (2024); under Frasers Group influence with new lettings signed
+- **Large centre** (906,850 sq ft, 147 units) but faces lower-income catchment and MK competition
+- **Accessibility concern:** Escalator removal at station entrance replaced with stairs -- negative feedback
+- **Opportunity:** Luton Airport DART link and town centre regeneration could support longer-term improvement
+
+---
+
+### NORTH (3 Stores)
+
+#### Leeds Trinity (LS1 5AT)
+- **Strong letting momentum:** Footasylum (12,000 sq ft, April), Schuh relocating from Briggate, LEGO expanding
+- **GBP 15m Trinity Kitchen expansion** by Freight Island (appointed by Landsec)
+- **National retailers relocating** from traditional Briggate pitches into Trinity, consolidating dominance
+- **Footfall surging** driven by experiential retail and social shopping
+- **Risk:** Cost-of-living pressures; depends on conversion of footfall to spend
+
+#### Sheffield Meadowhall (S9 1EN)
+- **Inditex expansion:** Pull & Bear and Stradivarius opening first Yorkshire stores (20,000+ sq ft combined); MINISO reopened Feb 2026
+- **Events:** Pride of Yorkshire art trail (summer 2026, Meadowhall as Presenting Partner)
+- **GBP 20m Castlegate park** development (due late 2026) will boost wider Sheffield visitor appeal
+- **January fire** near centre caused temporary disruption but no lasting impact
+
+---
+
+### WALES (1 Store)
+
+#### Cardiff St David's (CF10 2DP)
+- **GBP 17m new city square** on former Debenhams site expected to open 2026 (splash pad, performance stage, public realm)
+- **JD Sports opened 32,000 sq ft Welsh flagship** on 26 March 2026 -- largest store in Wales
+- **Commonwealth Games partnership** with Team Wales: 48-metre athlete display installation driving visitor interest through summer
+- **UK's 3rd busiest shopping centre** with 150+ brands; leisure-led square diversifies the offer
+
+---
+
+### EAST OF ENGLAND (1 Store)
+
+#### Cambridge Petty Cury (CB2 3NE)
+- **New lower business rates multipliers** from April 2026 -- net positive for smaller occupiers
+- **Cambridge Retail Park** redevelopment (Railpen) into mixed retail/leisure/dining (230,000 sq ft)
+- **Affluent catchment, university population and tourism** underpin resilient demand
+- **Risk:** City centre rents remain high; competition from out-of-town redevelopment
+
+---
+
+### Store Network Risk & Opportunity Matrix
+
+| Rating | Stores | Key Factor |
+|---|---|---|
+| **High Growth** | Brent Cross, Oxford Street, Bond Street, Leeds Trinity, Milton Keynes, Kingston | Major redevelopment / pedestrianisation / expanding catchment |
+| **Solid Performers** | Westfield, Cardiff, Nottingham, Glasgow Buchanan St, Brighton, Oxford Westgate, Meadowhall | Strong fundamentals; active letting; resilient footfall |
+| **Stable / Steady** | Ealing, Camden, Wembley, Glasgow Braehead, Livingston, Peterborough, Eastbourne, Windsor, Hammersmith, Victoria Place, Glasgow Central | Consistent trade; limited upside catalysts |
+| **Watch / Caution** | Shaftesbury Ave, Stirling, Telford, Luton, Cambridge | Smaller catchment or limited investment momentum |
+| **High Risk** | Croydon Whitgift | Declining tenant base; redevelopment uncertainty; potential site sale |
+
+---
+
 *Next Issue: May 2026*
 
 *For feedback or data requests, contact the editorial team.*
