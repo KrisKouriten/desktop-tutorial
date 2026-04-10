@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Professional accounting and financial consultancy services. Tax planning, bookkeeping, financial advisory, and business consulting.">
+  <title>ClearLedger Consulting | Accounting & Financial Advisory</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- ========== NAVIGATION ========== -->
+  <header class="header" id="header">
+    <nav class="nav container">
+      <a href="#home" class="nav__logo">
+        <span class="logo-icon" aria-hidden="true">
+          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="8" fill="#1B4D3E"/>
+            <path d="M8 22V10l8-4 8 4v12l-8 4-8-4z" fill="#A8D5BA" opacity="0.3"/>
+            <path d="M16 6l8 4v12l-8 4-8-4V10l8-4z" stroke="#E8F5E9" stroke-width="1.5" fill="none"/>
+            <path d="M12 14h8M12 17h6" stroke="#E8F5E9" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span class="logo-text">ClearLedger</span>
+      </a>
+
+      <button class="nav__toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span class="hamburger"></span>
+      </button>
+
+      <ul class="nav__menu" id="nav-menu" role="menubar">
+        <li role="none"><a href="#home" class="nav__link active" role="menuitem">Home</a></li>
+        <li role="none"><a href="#services" class="nav__link" role="menuitem">Services</a></li>
+        <li role="none"><a href="#about" class="nav__link" role="menuitem">About</a></li>
+        <li role="none"><a href="#pricing" class="nav__link" role="menuitem">Pricing</a></li>
+        <li role="none"><a href="#testimonials" class="nav__link" role="menuitem">Testimonials</a></li>
+        <li role="none"><a href="#portal" class="nav__link" role="menuitem">Client Portal</a></li>
+        <li role="none"><a href="#contact" class="nav__link nav__link--cta" role="menuitem">Book Consultation</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ========== HERO SECTION ========== -->
+    <section class="hero" id="home">
+      <div class="container hero__container">
+        <div class="hero__content">
+          <p class="hero__tag">Trusted Financial Partners</p>
+          <h1 class="hero__title">
+            Clarity in numbers.<br>
+            <span class="hero__title--accent">Confidence in growth.</span>
+          </h1>
+          <p class="hero__description">
+            We provide expert accounting and financial consultancy services tailored
+            to help individuals and businesses make smarter financial decisions,
+            stay compliant, and grow sustainably.
+          </p>
+          <div class="hero__actions">
+            <a href="#contact" class="btn btn--primary">Book a Free Consultation</a>
+            <a href="#services" class="btn btn--outline">Explore Services</a>
+          </div>
+          <div class="hero__stats">
+            <div class="stat">
+              <span class="stat__number" data-target="500">0</span><span class="stat__suffix">+</span>
+              <span class="stat__label">Clients Served</span>
+            </div>
+            <div class="stat">
+              <span class="stat__number" data-target="15">0</span><span class="stat__suffix">+</span>
+              <span class="stat__label">Years Experience</span>
+            </div>
+            <div class="stat">
+              <span class="stat__number" data-target="98">0</span><span class="stat__suffix">%</span>
+              <span class="stat__label">Client Retention</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero__visual">
+          <div class="hero__card">
+            <div class="hero__card-header">
+              <span class="hero__card-dot"></span>
+              <span class="hero__card-dot"></span>
+              <span class="hero__card-dot"></span>
+            </div>
+            <div class="hero__card-chart">
+              <div class="chart-bar" style="--height: 40%;" aria-hidden="true"></div>
+              <div class="chart-bar" style="--height: 65%;" aria-hidden="true"></div>
+              <div class="chart-bar" style="--height: 45%;" aria-hidden="true"></div>
+              <div class="chart-bar" style="--height: 80%;" aria-hidden="true"></div>
+              <div class="chart-bar" style="--height: 60%;" aria-hidden="true"></div>
+              <div class="chart-bar chart-bar--accent" style="--height: 95%;" aria-hidden="true"></div>
+            </div>
+            <div class="hero__card-footer">
+              <span class="hero__card-label">Revenue Growth</span>
+              <span class="hero__card-value">+24.5%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== SERVICES SECTION ========== -->
+    <section class="services" id="services">
+      <div class="container">
+        <div class="section-header">
+          <p class="section-tag">What We Offer</p>
+          <h2 class="section-title">Comprehensive Financial Services</h2>
+          <p class="section-subtitle">From day-to-day bookkeeping to strategic financial planning, we provide end-to-end support for your financial success.</p>
+        </div>
+
+        <div class="services__grid">
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><rect x="6" y="6" width="28" height="28" rx="4" stroke="currentColor" stroke-width="2"/><path d="M13 20h14M13 15h14M13 25h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            </div>
+            <h3 class="service-card__title">Bookkeeping</h3>
+            <p class="service-card__text">Accurate, timely financial record-keeping so you always know where your business stands. We handle ledgers, reconciliations, and monthly reporting.</p>
+            <a href="#contact" class="service-card__link">Learn more &rarr;</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="14" stroke="currentColor" stroke-width="2"/><path d="M20 12v8l5.5 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            </div>
+            <h3 class="service-card__title">Tax Planning & Filing</h3>
+            <p class="service-card__text">Strategic tax planning to minimize liabilities and ensure full compliance. We handle individual, business, and corporate tax returns.</p>
+            <a href="#contact" class="service-card__link">Learn more &rarr;</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><path d="M8 32l8-10 6 6 10-16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="32" cy="12" r="3" stroke="currentColor" stroke-width="2"/></svg>
+            </div>
+            <h3 class="service-card__title">Financial Advisory</h3>
+            <p class="service-card__text">Data-driven financial guidance for investment decisions, cash flow management, budgeting, and long-term wealth building strategies.</p>
+            <a href="#contact" class="service-card__link">Learn more &rarr;</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><rect x="8" y="14" width="24" height="16" rx="3" stroke="currentColor" stroke-width="2"/><path d="M14 14V11a6 6 0 0 1 12 0v3" stroke="currentColor" stroke-width="2"/><circle cx="20" cy="23" r="2" fill="currentColor"/></svg>
+            </div>
+            <h3 class="service-card__title">Audit & Assurance</h3>
+            <p class="service-card__text">Independent audit services providing transparency and assurance to stakeholders. Internal audits, statutory audits, and compliance reviews.</p>
+            <a href="#contact" class="service-card__link">Learn more &rarr;</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><path d="M20 8v24M8 20h24" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><rect x="11" y="11" width="8" height="8" rx="2" stroke="currentColor" stroke-width="1.5"/><rect x="21" y="21" width="8" height="8" rx="2" stroke="currentColor" stroke-width="1.5"/></svg>
+            </div>
+            <h3 class="service-card__title">Business Consulting</h3>
+            <p class="service-card__text">Strategic business advice for startups and growing companies. Business plans, financial modelling, market analysis, and operational efficiency.</p>
+            <a href="#contact" class="service-card__link">Learn more &rarr;</a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-card__icon">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><path d="M14 28V18M20 28V12M26 28V22" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></svg>
+            </div>
+            <h3 class="service-card__title">Payroll Services</h3>
+            <p class="service-card__text">End-to-end payroll management including salary processing, tax deductions, pension contributions, and regulatory compliance.</p>
+            <a href="#contact" class="service-card__link">Learn more &rarr;</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== ABOUT SECTION ========== -->
+    <section class="about" id="about">
+      <div class="container about__container">
+        <div class="about__image">
+          <div class="about__image-card">
+            <div class="about__badge">
+              <span class="about__badge-number">15+</span>
+              <span class="about__badge-text">Years of<br>Excellence</span>
+            </div>
+            <div class="about__portrait">
+              <svg viewBox="0 0 300 360" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <rect width="300" height="360" rx="16" fill="#E8F0E8"/>
+                <circle cx="150" cy="130" r="50" fill="#1B4D3E" opacity="0.15"/>
+                <path d="M80 320c0-40 30-70 70-70s70 30 70 70" fill="#1B4D3E" opacity="0.1"/>
+                <text x="150" y="250" text-anchor="middle" fill="#1B4D3E" font-size="14" font-family="Inter, sans-serif" opacity="0.5">Your Photo Here</text>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="about__content">
+          <p class="section-tag">About ClearLedger</p>
+          <h2 class="section-title">Built on trust.<br>Driven by precision.</h2>
+          <p class="about__text">
+            ClearLedger Consulting was founded with a simple mission: to make professional financial guidance
+            accessible to businesses of every size. With over 15 years of experience across multiple industries,
+            our team brings deep expertise in accounting standards, tax legislation, and financial strategy.
+          </p>
+          <p class="about__text">
+            We believe great financial management is the backbone of every successful business. Whether you're
+            a startup finding your footing or an established company planning your next phase of growth,
+            we provide the clarity and confidence you need to move forward.
+          </p>
+          <ul class="about__highlights">
+            <li>
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="10" fill="#1B4D3E"/><path d="M6 10l3 3 5-6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Certified Public Accountants (CPA)
+            </li>
+            <li>
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="10" fill="#1B4D3E"/><path d="M6 10l3 3 5-6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Chartered Financial Analysts (CFA)
+            </li>
+            <li>
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="10" fill="#1B4D3E"/><path d="M6 10l3 3 5-6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Fully insured & regulated practice
+            </li>
+            <li>
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="10" fill="#1B4D3E"/><path d="M6 10l3 3 5-6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Industry-specific expertise across 10+ sectors
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== PRICING SECTION ========== -->
+    <section class="pricing" id="pricing">
+      <div class="container">
+        <div class="section-header">
+          <p class="section-tag">Pricing</p>
+          <h2 class="section-title">Transparent, Fair Pricing</h2>
+          <p class="section-subtitle">Choose a plan that fits your needs. All plans include a dedicated account manager and secure document portal access.</p>
+        </div>
+
+        <div class="pricing__grid">
+          <article class="pricing-card">
+            <div class="pricing-card__header">
+              <h3 class="pricing-card__name">Starter</h3>
+              <p class="pricing-card__desc">For freelancers and sole traders</p>
+            </div>
+            <div class="pricing-card__price">
+              <span class="pricing-card__currency">$</span>
+              <span class="pricing-card__amount">149</span>
+              <span class="pricing-card__period">/month</span>
+            </div>
+            <ul class="pricing-card__features">
+              <li>Monthly bookkeeping</li>
+              <li>Quarterly financial reports</li>
+              <li>Annual tax filing</li>
+              <li>Email support</li>
+              <li>Client portal access</li>
+            </ul>
+            <a href="#contact" class="btn btn--outline btn--block">Get Started</a>
+          </article>
+
+          <article class="pricing-card pricing-card--featured">
+            <div class="pricing-card__badge">Most Popular</div>
+            <div class="pricing-card__header">
+              <h3 class="pricing-card__name">Professional</h3>
+              <p class="pricing-card__desc">For growing small businesses</p>
+            </div>
+            <div class="pricing-card__price">
+              <span class="pricing-card__currency">$</span>
+              <span class="pricing-card__amount">349</span>
+              <span class="pricing-card__period">/month</span>
+            </div>
+            <ul class="pricing-card__features">
+              <li>Everything in Starter</li>
+              <li>Payroll processing (up to 10 employees)</li>
+              <li>Tax planning & strategy</li>
+              <li>Monthly video consultations</li>
+              <li>Cash flow forecasting</li>
+              <li>Priority support</li>
+            </ul>
+            <a href="#contact" class="btn btn--primary btn--block">Get Started</a>
+          </article>
+
+          <article class="pricing-card">
+            <div class="pricing-card__header">
+              <h3 class="pricing-card__name">Enterprise</h3>
+              <p class="pricing-card__desc">For established businesses</p>
+            </div>
+            <div class="pricing-card__price">
+              <span class="pricing-card__currency">$</span>
+              <span class="pricing-card__amount">799</span>
+              <span class="pricing-card__period">/month</span>
+            </div>
+            <ul class="pricing-card__features">
+              <li>Everything in Professional</li>
+              <li>Unlimited payroll processing</li>
+              <li>Audit preparation & support</li>
+              <li>CFO advisory services</li>
+              <li>Custom financial modelling</li>
+              <li>Dedicated account manager</li>
+              <li>24/7 priority support</li>
+            </ul>
+            <a href="#contact" class="btn btn--outline btn--block">Contact Us</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== TESTIMONIALS SECTION ========== -->
+    <section class="testimonials" id="testimonials">
+      <div class="container">
+        <div class="section-header">
+          <p class="section-tag">Testimonials</p>
+          <h2 class="section-title">What Our Clients Say</h2>
+          <p class="section-subtitle">Don't just take our word for it. Here's what business owners and individuals have to say about working with ClearLedger.</p>
+        </div>
+
+        <div class="testimonials__grid">
+          <article class="testimonial-card">
+            <div class="testimonial-card__stars" aria-label="5 out of 5 stars">
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+            </div>
+            <blockquote class="testimonial-card__quote">
+              "ClearLedger transformed our financial operations. Their bookkeeping is impeccable and their tax planning saved us over $30,000 in our first year. Absolutely worth every penny."
+            </blockquote>
+            <div class="testimonial-card__author">
+              <div class="testimonial-card__avatar" aria-hidden="true">SM</div>
+              <div>
+                <p class="testimonial-card__name">Sarah Mitchell</p>
+                <p class="testimonial-card__role">CEO, TechVentures Inc.</p>
+              </div>
+            </div>
+          </article>
+
+          <article class="testimonial-card">
+            <div class="testimonial-card__stars" aria-label="5 out of 5 stars">
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+            </div>
+            <blockquote class="testimonial-card__quote">
+              "As a freelancer, managing finances was always stressful. ClearLedger's Starter plan gave me peace of mind and freed up hours each month. Their client portal is incredibly easy to use."
+            </blockquote>
+            <div class="testimonial-card__author">
+              <div class="testimonial-card__avatar" aria-hidden="true">JR</div>
+              <div>
+                <p class="testimonial-card__name">James Rodriguez</p>
+                <p class="testimonial-card__role">Freelance Designer</p>
+              </div>
+            </div>
+          </article>
+
+          <article class="testimonial-card">
+            <div class="testimonial-card__stars" aria-label="5 out of 5 stars">
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+              <svg width="18" height="18" viewBox="0 0 18 18"><polygon points="9,1 11.5,6.5 17,7 13,11 14,17 9,14 4,17 5,11 1,7 6.5,6.5" fill="#F5A623"/></svg>
+            </div>
+            <blockquote class="testimonial-card__quote">
+              "The Enterprise plan's CFO advisory services have been game-changing for our growth strategy. ClearLedger doesn't just crunch numbers - they provide real strategic insight."
+            </blockquote>
+            <div class="testimonial-card__author">
+              <div class="testimonial-card__avatar" aria-hidden="true">AP</div>
+              <div>
+                <p class="testimonial-card__name">Amara Patel</p>
+                <p class="testimonial-card__role">Founder, GreenLeaf Organics</p>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== CLIENT PORTAL SECTION ========== -->
+    <section class="portal" id="portal">
+      <div class="container">
+        <div class="section-header">
+          <p class="section-tag">Client Portal</p>
+          <h2 class="section-title">Your Finances, All in One Place</h2>
+          <p class="section-subtitle">Our secure client portal gives you 24/7 access to your financial data, documents, and direct communication with your dedicated accountant.</p>
+        </div>
+
+        <div class="portal__grid">
+          <div class="portal-feature">
+            <div class="portal-feature__icon">
+              <svg width="48" height="48" viewBox="0 0 48 48" fill="none"><rect x="8" y="8" width="32" height="32" rx="6" stroke="currentColor" stroke-width="2"/><path d="M16 20h16M16 26h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M32 16v-4a4 4 0 0 0-4-4H20a4 4 0 0 0-4 4v4" stroke="currentColor" stroke-width="2"/></svg>
+            </div>
+            <h3 class="portal-feature__title">Document Upload</h3>
+            <p class="portal-feature__text">Securely upload invoices, receipts, and financial documents. Organised and accessible anytime.</p>
+          </div>
+
+          <div class="portal-feature">
+            <div class="portal-feature__icon">
+              <svg width="48" height="48" viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="16" stroke="currentColor" stroke-width="2"/><path d="M24 14v10l7 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            </div>
+            <h3 class="portal-feature__title">Real-Time Dashboard</h3>
+            <p class="portal-feature__text">Track income, expenses, and profit in real time with intuitive charts and summaries.</p>
+          </div>
+
+          <div class="portal-feature">
+            <div class="portal-feature__icon">
+              <svg width="48" height="48" viewBox="0 0 48 48" fill="none"><path d="M12 36V18l12-6 12 6v18l-12 6-12-6z" stroke="currentColor" stroke-width="2"/><path d="M12 18l12 6 12-6M24 24v18" stroke="currentColor" stroke-width="2"/></svg>
+            </div>
+            <h3 class="portal-feature__title">Book Consultations</h3>
+            <p class="portal-feature__text">Schedule video or in-person meetings with your accountant directly through the portal.</p>
+          </div>
+
+          <div class="portal-feature">
+            <div class="portal-feature__icon">
+              <svg width="48" height="48" viewBox="0 0 48 48" fill="none"><rect x="10" y="16" width="28" height="20" rx="4" stroke="currentColor" stroke-width="2"/><path d="M18 16v-4a6 6 0 0 1 12 0v4" stroke="currentColor" stroke-width="2"/><circle cx="24" cy="28" r="3" stroke="currentColor" stroke-width="2"/><path d="M24 31v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            </div>
+            <h3 class="portal-feature__title">Bank-Level Security</h3>
+            <p class="portal-feature__text">256-bit SSL encryption and two-factor authentication keep your sensitive financial data safe.</p>
+          </div>
+        </div>
+
+        <div class="portal__cta">
+          <a href="#contact" class="btn btn--primary">Request Portal Access</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== CONTACT SECTION ========== -->
+    <section class="contact" id="contact">
+      <div class="container contact__container">
+        <div class="contact__info">
+          <p class="section-tag">Get In Touch</p>
+          <h2 class="section-title">Book Your Free<br>Consultation</h2>
+          <p class="contact__text">
+            Ready to take control of your finances? Fill out the form and one of our
+            consultants will get back to you within 24 hours to schedule your free
+            introductory consultation.
+          </p>
+          <div class="contact__details">
+            <div class="contact__detail">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6A19.79 19.79 0 012.12 4.18 2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z" stroke="currentColor" stroke-width="2"/></svg>
+              <span>+1 (555) 123-4567</span>
+            </div>
+            <div class="contact__detail">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" stroke="currentColor" stroke-width="2"/><path d="M22 6l-10 7L2 6" stroke="currentColor" stroke-width="2"/></svg>
+              <span>hello@clearledger.com</span>
+            </div>
+            <div class="contact__detail">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="3" stroke="currentColor" stroke-width="2"/></svg>
+              <span>123 Finance Street, Suite 400<br>New York, NY 10001</span>
+            </div>
+          </div>
+        </div>
+
+        <form class="contact__form" id="contact-form" novalidate>
+          <div class="form-group">
+            <label for="name" class="form-label">Full Name</label>
+            <input type="text" id="name" name="name" class="form-input" placeholder="John Smith" required>
+            <span class="form-error" id="name-error">Please enter your name</span>
+          </div>
+          <div class="form-group">
+            <label for="email" class="form-label">Email Address</label>
+            <input type="email" id="email" name="email" class="form-input" placeholder="john@example.com" required>
+            <span class="form-error" id="email-error">Please enter a valid email</span>
+          </div>
+          <div class="form-group">
+            <label for="phone" class="form-label">Phone Number</label>
+            <input type="tel" id="phone" name="phone" class="form-input" placeholder="+1 (555) 000-0000">
+          </div>
+          <div class="form-group">
+            <label for="service" class="form-label">Service Interested In</label>
+            <select id="service" name="service" class="form-input form-select" required>
+              <option value="" disabled selected>Select a service</option>
+              <option value="bookkeeping">Bookkeeping</option>
+              <option value="tax">Tax Planning & Filing</option>
+              <option value="advisory">Financial Advisory</option>
+              <option value="audit">Audit & Assurance</option>
+              <option value="consulting">Business Consulting</option>
+              <option value="payroll">Payroll Services</option>
+              <option value="other">Other / Not Sure</option>
+            </select>
+            <span class="form-error" id="service-error">Please select a service</span>
+          </div>
+          <div class="form-group">
+            <label for="message" class="form-label">Tell Us About Your Needs</label>
+            <textarea id="message" name="message" class="form-input form-textarea" rows="4" placeholder="Briefly describe what you're looking for..."></textarea>
+          </div>
+          <button type="submit" class="btn btn--primary btn--block">
+            <span class="btn__text">Send Message</span>
+            <span class="btn__loading" aria-hidden="true">Sending...</span>
+          </button>
+          <div class="form-success" id="form-success">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" fill="#1B4D3E"/><path d="M8 12l3 3 5-6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <p>Thank you! We'll be in touch within 24 hours to schedule your free consultation.</p>
+          </div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="footer">
+    <div class="container footer__container">
+      <div class="footer__brand">
+        <a href="#home" class="nav__logo">
+          <span class="logo-icon" aria-hidden="true">
+            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="32" height="32" rx="8" fill="#1B4D3E"/>
+              <path d="M8 22V10l8-4 8 4v12l-8 4-8-4z" fill="#A8D5BA" opacity="0.3"/>
+              <path d="M16 6l8 4v12l-8 4-8-4V10l8-4z" stroke="#E8F5E9" stroke-width="1.5" fill="none"/>
+              <path d="M12 14h8M12 17h6" stroke="#E8F5E9" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </span>
+          <span class="logo-text">ClearLedger</span>
+        </a>
+        <p class="footer__tagline">Professional accounting and financial consultancy you can trust.</p>
+      </div>
+
+      <div class="footer__links">
+        <div class="footer__col">
+          <h4 class="footer__heading">Services</h4>
+          <ul>
+            <li><a href="#services">Bookkeeping</a></li>
+            <li><a href="#services">Tax Planning</a></li>
+            <li><a href="#services">Financial Advisory</a></li>
+            <li><a href="#services">Audit & Assurance</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4 class="footer__heading">Company</h4>
+          <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#pricing">Pricing</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4 class="footer__heading">Legal</h4>
+          <ul>
+            <li><a href="#privacy">Privacy Policy</a></li>
+            <li><a href="#terms">Terms of Service</a></li>
+            <li><a href="#cookies">Cookie Policy</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer__bottom container">
+      <p>&copy; 2026 ClearLedger Consulting. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
