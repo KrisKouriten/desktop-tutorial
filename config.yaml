@@ -1,0 +1,87 @@
+# Finance Director job search criteria.
+# Tweak to taste - no code changes needed.
+
+keywords:
+  # Any of these title patterns will match (case-insensitive).
+  titles_any:
+    - "finance director"
+    - "group finance director"
+    - "divisional finance director"
+    - "deputy finance director"
+    - "cfo"
+    - "chief financial officer"
+  # Titles to always exclude (avoid FC, Head of Finance etc.)
+  titles_exclude:
+    - "assistant"
+    - "interim"           # remove if you want contract too
+    - "part-time"
+    - "part time"
+    - "financial controller"
+    - "head of finance"
+    - "finance manager"
+    - "analyst"
+
+locations:
+  # London
+  - name: "London"
+    adzuna_where: "London"
+    reed_location: "London"
+    reed_distance: 15          # miles
+  # South West England - hit the main hubs individually for better coverage
+  - name: "Bristol"
+    adzuna_where: "Bristol"
+    reed_location: "Bristol"
+    reed_distance: 20
+  - name: "Bath"
+    adzuna_where: "Bath"
+    reed_location: "Bath"
+    reed_distance: 15
+  - name: "Exeter"
+    adzuna_where: "Exeter"
+    reed_location: "Exeter"
+    reed_distance: 20
+  - name: "Plymouth"
+    adzuna_where: "Plymouth"
+    reed_location: "Plymouth"
+    reed_distance: 20
+  - name: "Bournemouth"
+    adzuna_where: "Bournemouth"
+    reed_location: "Bournemouth"
+    reed_distance: 15
+  - name: "Swindon"
+    adzuna_where: "Swindon"
+    reed_location: "Swindon"
+    reed_distance: 15
+  - name: "Cheltenham"
+    adzuna_where: "Cheltenham"
+    reed_location: "Cheltenham"
+    reed_distance: 15
+
+filters:
+  min_salary_gbp: 120000
+  # If true, reject jobs whose advertised salary is below the minimum.
+  # Jobs with no salary listed are kept and flagged (many FD roles hide salary).
+  strict_salary: false
+  # If true, require hybrid/remote keywords in title or description.
+  # If false, jobs still show a [HYBRID]/[REMOTE] flag when matched.
+  require_hybrid_or_remote: true
+  hybrid_remote_terms:
+    - "hybrid"
+    - "remote"
+    - "work from home"
+    - "wfh"
+    - "flexible working"
+
+notify:
+  # Email digest settings (credentials in .env)
+  subject_prefix: "[FD Jobs]"
+  max_jobs_per_email: 50
+  # Don't email if no new jobs since last run
+  skip_if_empty: true
+
+sources:
+  reed: true
+  adzuna: true
+  jooble: true
+  serpapi: false        # flip on once you have a key - costs money
+  rss: true             # CV-Library / Totaljobs public feeds
