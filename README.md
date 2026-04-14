@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python data/samples/generate_sample_data.py
 
 # Option 1: Web app (recommended)
-streamlit run app.py
+streamlit run streamlit_app.py
 
 # Option 2: Command line
 python run_allocation.py --data-dir data/samples
@@ -35,7 +35,7 @@ python run_allocation.py --data-dir data/samples
 The Streamlit app provides a full interactive interface:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 **Features:**
@@ -143,7 +143,7 @@ python -m pytest tests/ -v
 ## Project Structure
 
 ```
-├── app.py                     # Streamlit web app
+├── streamlit_app.py           # Streamlit web app
 ├── run_allocation.py          # CLI entry point
 ├── config.py                  # All configurable parameters
 ├── allocation/
