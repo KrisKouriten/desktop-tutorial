@@ -55,22 +55,30 @@ with open(sku_master_path, "w", newline="") as f:
 # Not all stores carry all SKUs. Larger stores carry more.
 store_range_path = os.path.join(SAMPLE_DIR, "store_range.csv")
 range_pairs = set()
+store_grades = {}
 with open(store_range_path, "w", newline="") as f:
     writer = csv.writer(f)
-    writer.writerow(["store_id", "sku", "in_range"])
+    writer.writerow(["store_id", "sku", "in_range", "store_grade", "max_weekly_intake"])
     for store in stores:
         store_num = int(store[1:])
-        # Larger store numbers = smaller stores with fewer SKUs
+        # Store grading: A = flagship, B = mid-tier, C = smaller
         if store_num <= 20:
-            range_pct = 0.90  # Flagship stores carry 90%
+            range_pct = 0.90
+            grade = "A"
+            max_intake = 500  # Large receiving capacity
         elif store_num <= 45:
-            range_pct = 0.65  # Mid-tier carry 65%
+            range_pct = 0.65
+            grade = "B"
+            max_intake = 300
         else:
-            range_pct = 0.40  # Small stores carry 40%
+            range_pct = 0.40
+            grade = "C"
+            max_intake = 150
 
+        store_grades[store] = grade
         for sku_id, _ in skus:
             if random.random() < range_pct:
-                writer.writerow([store, sku_id, 1])
+                writer.writerow([store, sku_id, 1, grade, max_intake])
                 range_pairs.add((store, sku_id))
 
 # --- sales_history.csv ---
@@ -143,8 +151,13 @@ with open(store_soh_path, "w", newline="") as f:
 
         writer.writerow([store, sku_id, soh])
 
+grade_counts = {}
+for g in store_grades.values():
+    grade_counts[g] = grade_counts.get(g, 0) + 1
+grade_str = ", ".join(f"{g}={c}" for g, c in sorted(grade_counts.items()))
+
 print(f"Sample data generated in {SAMPLE_DIR}/")
-print(f"  Stores: {NUM_STORES}")
+print(f"  Stores: {NUM_STORES} ({grade_str})")
 print(f"  SKUs: {NUM_SKUS} ({NUM_KEY_SKUS} key)")
 print(f"  New SKUs: {len(new_skus)}")
 print(f"  Range pairs: {len(range_pairs)}")

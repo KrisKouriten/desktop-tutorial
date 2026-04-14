@@ -64,8 +64,11 @@ def load_warehouse_soh(path):
     else:
         df["incoming_stock"] = 0
 
+    total_available = df["warehouse_soh"].sum() + df["incoming_stock"].sum()
     print(f"  Warehouse SOH: {len(df):,} SKUs, "
-          f"{df['warehouse_soh'].sum():,} total units")
+          f"{df['warehouse_soh'].sum():,} on hand + "
+          f"{df['incoming_stock'].sum():,} incoming = "
+          f"{total_available:,} total available")
     return df
 
 
@@ -91,6 +94,7 @@ def load_store_range(path):
     """
     Load store range matrix (which stores carry which SKUs).
     Expected columns: store_id, sku, in_range
+    Optional columns: store_grade (A/B/C), max_weekly_intake
     Only returns rows where in_range == 1.
     """
     df = pd.read_csv(path)
@@ -98,10 +102,27 @@ def load_store_range(path):
     _check_no_blanks(df, ["store_id", "sku"], path)
 
     df["in_range"] = pd.to_numeric(df["in_range"], errors="coerce").fillna(0).astype(int)
-    df = df[df["in_range"] == 1][["store_id", "sku"]].copy()
+    df = df[df["in_range"] == 1].copy()
 
+    # Store grade: default to "B" if not provided
+    if "store_grade" not in df.columns:
+        df["store_grade"] = "B"
+    df["store_grade"] = df["store_grade"].fillna("B").astype(str).str.upper().str.strip()
+    valid_grades = {"A", "B", "C"}
+    df.loc[~df["store_grade"].isin(valid_grades), "store_grade"] = "B"
+
+    # Max weekly intake: default to 0 (unlimited) if not provided
+    if "max_weekly_intake" not in df.columns:
+        df["max_weekly_intake"] = 0
+    df["max_weekly_intake"] = pd.to_numeric(df["max_weekly_intake"], errors="coerce").fillna(0).astype(int)
+
+    keep_cols = ["store_id", "sku", "store_grade", "max_weekly_intake"]
+    df = df[keep_cols].copy()
+
+    grade_counts = df.groupby("store_grade")["store_id"].nunique()
+    grade_str = ", ".join(f"{g}={c}" for g, c in sorted(grade_counts.items()))
     print(f"  Store range: {len(df):,} active pairs, "
-          f"{df['store_id'].nunique()} stores, "
+          f"{df['store_id'].nunique()} stores ({grade_str}), "
           f"{df['sku'].nunique()} SKUs")
     return df
 
