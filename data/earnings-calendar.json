@@ -1,0 +1,16 @@
+{
+  "description": "Upcoming earnings and trading statement dates for tracked UK retailers",
+  "note": "Dates are indicative and subject to change. Verify with company investor relations.",
+  "calendar": [
+    { "company": "Tesco", "ticker": "TSCO.L", "event": "Full Year Results", "expected_date": "2026-04-09", "fiscal_period": "FY2025/26" },
+    { "company": "Sainsbury's", "ticker": "SBRY.L", "event": "Full Year Results", "expected_date": "2026-04-30", "fiscal_period": "FY2025/26" },
+    { "company": "Marks & Spencer", "ticker": "MKS.L", "event": "Full Year Results", "expected_date": "2026-05-21", "fiscal_period": "FY2025/26" },
+    { "company": "Next", "ticker": "NXT.L", "event": "Full Year Results", "expected_date": "2026-03-26", "fiscal_period": "FY2025/26" },
+    { "company": "JD Sports", "ticker": "JD.L", "event": "Full Year Results", "expected_date": "2026-07-15", "fiscal_period": "FY2025/26" },
+    { "company": "Associated British Foods", "ticker": "ABF.L", "event": "Half Year Results", "expected_date": "2026-04-22", "fiscal_period": "H1 FY2026" },
+    { "company": "Kingfisher", "ticker": "KGF.L", "event": "Full Year Results", "expected_date": "2026-03-24", "fiscal_period": "FY2025/26" },
+    { "company": "Dunelm", "ticker": "DNLM.L", "event": "Half Year Results", "expected_date": "2026-02-18", "fiscal_period": "H1 FY2026" },
+    { "company": "Frasers Group", "ticker": "FRAS.L", "event": "Full Year Results", "expected_date": "2026-07-09", "fiscal_period": "FY2025/26" },
+    { "company": "boohoo Group", "ticker": "BOO.L", "event": "Full Year Results", "expected_date": "2026-05-13", "fiscal_period": "FY2025/26" }
+  ]
+}
