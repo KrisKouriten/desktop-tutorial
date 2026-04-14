@@ -20,10 +20,33 @@ Allocation model for a 60+ store retail business with 8000+ SKUs. Calculates wee
 ```bash
 pip install -r requirements.txt
 
-# Generate sample data and run
+# Generate sample data
 python data/samples/generate_sample_data.py
+
+# Option 1: Web app (recommended)
+streamlit run app.py
+
+# Option 2: Command line
 python run_allocation.py --data-dir data/samples
 ```
+
+## Web App
+
+The Streamlit app provides a full interactive interface:
+
+```bash
+streamlit run app.py
+```
+
+**Features:**
+- Upload CSVs or use sample data with one click
+- Adjust all parameters with sliders (weeks of cover, safety stock, reserve %, priority weights)
+- Data preview with validation
+- KPI dashboard (fill rate, total allocated, units by grade)
+- Filterable allocation detail table (by store, category, grade)
+- SKU summary, store summary, and constrained SKU views
+- Charts showing allocation distribution by grade and store
+- Download allocation detail and summary as CSV
 
 ## Input Files
 
@@ -120,7 +143,8 @@ python -m pytest tests/ -v
 ## Project Structure
 
 ```
-├── run_allocation.py          # Entry point with CLI options
+├── app.py                     # Streamlit web app
+├── run_allocation.py          # CLI entry point
 ├── config.py                  # All configurable parameters
 ├── allocation/
 │   ├── loader.py              # CSV loading & validation (incl. store grade)
