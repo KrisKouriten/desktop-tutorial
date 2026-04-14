@@ -1,0 +1,81 @@
+sku,description,category,is_new,replaces_sku,pack_size
+SKU00001,Mens Shirts - SKU00001,mens_shirts,0,,1
+SKU00002,Mens Trousers - SKU00002,mens_trousers,0,,1
+SKU00003,Womens Tops - SKU00003,womens_tops,0,,1
+SKU00004,Womens Dresses - SKU00004,womens_dresses,0,,1
+SKU00005,Accessories - SKU00005,accessories,0,,1
+SKU00006,Footwear - SKU00006,footwear,0,,1
+SKU00007,Outerwear - SKU00007,outerwear,0,,1
+SKU00008,Knitwear - SKU00008,knitwear,0,,3
+SKU00009,Mens Shirts - SKU00009,mens_shirts,0,,1
+SKU00010,Mens Trousers - SKU00010,mens_trousers,0,,3
+SKU00011,Womens Tops - SKU00011,womens_tops,0,,2
+SKU00012,Womens Dresses - SKU00012,womens_dresses,0,,1
+SKU00013,Accessories - SKU00013,accessories,0,,1
+SKU00014,Footwear - SKU00014,footwear,0,,1
+SKU00015,Outerwear - SKU00015,outerwear,0,,1
+SKU00016,Knitwear - SKU00016,knitwear,0,,1
+SKU00017,Mens Shirts - SKU00017,mens_shirts,0,,3
+SKU00018,Mens Trousers - SKU00018,mens_trousers,0,,3
+SKU00019,Womens Tops - SKU00019,womens_tops,0,,1
+SKU00020,Womens Dresses - SKU00020,womens_dresses,0,,3
+SKU00021,Accessories - SKU00021,accessories,0,,1
+SKU00022,Footwear - SKU00022,footwear,0,,3
+SKU00023,Outerwear - SKU00023,outerwear,0,,2
+SKU00024,Knitwear - SKU00024,knitwear,0,,1
+SKU00025,Mens Shirts - SKU00025,mens_shirts,0,,2
+SKU00026,Mens Trousers - SKU00026,mens_trousers,0,,3
+SKU00027,Womens Tops - SKU00027,womens_tops,0,,1
+SKU00028,Womens Dresses - SKU00028,womens_dresses,0,,1
+SKU00029,Accessories - SKU00029,accessories,0,,1
+SKU00030,Footwear - SKU00030,footwear,0,,2
+SKU00031,Outerwear - SKU00031,outerwear,0,,1
+SKU00032,Knitwear - SKU00032,knitwear,0,,1
+SKU00033,Mens Shirts - SKU00033,mens_shirts,0,,1
+SKU00034,Mens Trousers - SKU00034,mens_trousers,0,,1
+SKU00035,Womens Tops - SKU00035,womens_tops,0,,1
+SKU00036,Womens Dresses - SKU00036,womens_dresses,0,,1
+SKU00037,Accessories - SKU00037,accessories,0,,1
+SKU00038,Footwear - SKU00038,footwear,0,,2
+SKU00039,Outerwear - SKU00039,outerwear,0,,1
+SKU00040,Knitwear - SKU00040,knitwear,0,,1
+SKU00041,Mens Shirts - SKU00041,mens_shirts,0,,1
+SKU00042,Mens Trousers - SKU00042,mens_trousers,0,,3
+SKU00043,Womens Tops - SKU00043,womens_tops,0,,1
+SKU00044,Womens Dresses - SKU00044,womens_dresses,0,,1
+SKU00045,Accessories - SKU00045,accessories,0,,2
+SKU00046,Footwear - SKU00046,footwear,0,,3
+SKU00047,Outerwear - SKU00047,outerwear,0,,1
+SKU00048,Knitwear - SKU00048,knitwear,0,,2
+SKU00049,Mens Shirts - SKU00049,mens_shirts,0,,1
+SKU00050,Mens Trousers - SKU00050,mens_trousers,0,,3
+SKU00051,Womens Tops - SKU00051,womens_tops,0,,1
+SKU00052,Womens Dresses - SKU00052,womens_dresses,0,,3
+SKU00053,Accessories - SKU00053,accessories,0,,1
+SKU00054,Footwear - SKU00054,footwear,0,,3
+SKU00055,Outerwear - SKU00055,outerwear,0,,1
+SKU00056,Knitwear - SKU00056,knitwear,0,,1
+SKU00057,Mens Shirts - SKU00057,mens_shirts,0,,1
+SKU00058,Mens Trousers - SKU00058,mens_trousers,0,,1
+SKU00059,Womens Tops - SKU00059,womens_tops,0,,1
+SKU00060,Womens Dresses - SKU00060,womens_dresses,0,,1
+SKU00061,Accessories - SKU00061,accessories,0,,1
+SKU00062,Footwear - SKU00062,footwear,0,,1
+SKU00063,Outerwear - SKU00063,outerwear,0,,2
+SKU00064,Knitwear - SKU00064,knitwear,0,,1
+SKU00065,Mens Shirts - SKU00065,mens_shirts,0,,2
+SKU00066,Mens Trousers - SKU00066,mens_trousers,0,,1
+SKU00067,Womens Tops - SKU00067,womens_tops,0,,1
+SKU00068,Womens Dresses - SKU00068,womens_dresses,0,,1
+SKU00069,Accessories - SKU00069,accessories,0,,1
+SKU00070,Footwear - SKU00070,footwear,0,,1
+SKU00071,Outerwear - SKU00071,outerwear,0,,1
+SKU00072,Knitwear - SKU00072,knitwear,0,,1
+SKU00073,Mens Shirts - SKU00073,mens_shirts,0,,3
+SKU00074,Mens Trousers - SKU00074,mens_trousers,0,,1
+SKU00075,Womens Tops - SKU00075,womens_tops,1,SKU00055,3
+SKU00076,Womens Dresses - SKU00076,womens_dresses,1,SKU00056,1
+SKU00077,Accessories - SKU00077,accessories,1,SKU00057,1
+SKU00078,Footwear - SKU00078,footwear,1,SKU00058,2
+SKU00079,Outerwear - SKU00079,outerwear,1,SKU00059,2
+SKU00080,Knitwear - SKU00080,knitwear,1,SKU00060,1
