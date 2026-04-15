@@ -1,0 +1,7 @@
+shipment_id,freight_cost,freight_ccy,duty_cost,duty_ccy,goods_in_cost,goods_in_ccy,amortise_basis
+SHP-2026-001,4800.0,USD,3200.0,USD,450.0,GBP,value
+SHP-2026-002,3200.0,USD,1900.0,USD,320.0,GBP,qty
+SHP-2026-003,1600.0,EUR,800.0,GBP,210.0,GBP,value
+SHP-2026-004,2100.0,EUR,1100.0,EUR,280.0,GBP,value
+SHP-2026-005,550.0,GBP,0.0,GBP,140.0,GBP,qty
+SHP-2026-006,5900.0,USD,4600.0,USD,600.0,GBP,value
