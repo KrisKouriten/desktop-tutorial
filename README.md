@@ -138,7 +138,75 @@ pip install pytest
 python -m pytest tests/ -v
 ```
 
-25 tests covering: ROS (simple + weighted + demand std), need (grade-based cover, safety stock, min presentation, pack size), fair share (proportional, grade priority, incoming stock, phase-down, capacity, reserve), and newness (like-for-like, category fallback, range filtering).
+43 tests covering: ROS (simple + weighted + demand std), need (grade-based cover, safety stock, min presentation, pack size), fair share (proportional, grade priority, incoming stock, phase-down, capacity, reserve), newness (like-for-like, category fallback, range filtering), and WAC (FX conversion, cost-pool amortisation by qty/value, mixed-currency pools, landed cost, opening+receipts blend).
+
+---
+
+## Weighted Average Cost (WAC) Model
+
+Companion model that computes a new WAC per SKU from **opening stock on hand + inbound receipts**. Each receipt is landed at:
+
+```
+Landed unit cost = Invoice price
+                 + Amortised Freight
+                 + Amortised Duty
+                 + Amortised Goods-In
+```
+
+All foreign-currency costs are translated to GBP via a **dynamic costing FX rate**, overridable at runtime for what-if analysis.
+
+### Quick Start
+
+```bash
+# Generate sample WAC data
+python data/samples/wac/generate_sample_wac_data.py
+
+# CLI run
+python run_wac.py --data-dir data/samples/wac
+
+# With FX overrides (USD 0.82 and EUR 0.86 instead of file values)
+python run_wac.py --data-dir data/samples/wac --fx USD=0.82 --fx EUR=0.86
+
+# Interactive Streamlit app
+streamlit run streamlit_wac.py
+```
+
+### Input Files
+
+| File | Columns | Description |
+|------|---------|-------------|
+| `opening_stock.csv` | `sku, opening_qty, opening_wac_gbp` | Existing stock + its current GBP WAC |
+| `receipts.csv` | `receipt_id, shipment_id, sku, receipt_date, qty, invoice_ccy, invoice_unit_cost` | Inbound receipt lines |
+| `cost_pools.csv` | `shipment_id, freight_cost, freight_ccy, duty_cost, duty_ccy, goods_in_cost, goods_in_ccy, amortise_basis` | Per-shipment cost pools. `amortise_basis` is `qty` or `value` |
+| `fx_rates.csv` | `ccy, rate_to_gbp` | Costing rates (GBP per 1 unit of CCY) |
+
+### How It Works
+
+1. **Load & validate** — All four CSVs, with cross-reference checks (orphan shipments warned).
+2. **FX** — Build a `{ccy -> rate_to_gbp}` lookup. GBP is always 1.0. CLI `--fx CCY=RATE` or the Streamlit FX editor override rates live.
+3. **Amortise cost pools** — For each shipment, convert freight/duty/goods-in totals to GBP, then split across the shipment's receipt lines. Two bases:
+   - `qty` — proportional to units received (use for volume-driven costs like freight-per-carton, goods-in labour).
+   - `value` — proportional to GBP invoice value (use for ad-valorem costs like customs duty).
+4. **Landed cost** — Per line: `landed_unit_gbp = invoice_unit_gbp + amort_freight_unit_gbp + amort_duty_unit_gbp + amort_goods_in_unit_gbp`.
+5. **WAC roll-up** — Per SKU: `new_wac = (opening_value + Σ landed_line) / (opening_qty + Σ receipt_qty)`. Zero-qty SKUs get WAC 0.
+6. **Output** — `wac_summary_YYYY-MM-DD.csv` (one row per SKU) and `wac_receipt_detail_YYYY-MM-DD.csv` (per-line landed cost).
+
+### WAC Project Layout
+
+```
+├── run_wac.py                      # CLI entry point
+├── streamlit_wac.py                # Streamlit app (dynamic FX editor)
+├── wac/
+│   ├── loader.py                   # Load & validate the 4 CSVs
+│   ├── fx.py                       # Costing-rate lookup + USD->GBP helper
+│   ├── amortise.py                 # Split freight/duty/goods-in across lines
+│   ├── landed.py                   # Invoice + amortised uplifts = landed cost
+│   ├── wac.py                      # Roll opening + receipts into new WAC
+│   ├── engine.py                   # Pipeline orchestrator
+│   └── output.py                   # CSV writer + console summary
+├── data/samples/wac/               # Sample data (20 SKUs, 40 receipts, 6 shipments)
+└── tests/test_wac.py               # 18 WAC unit tests
+```
 
 ## Project Structure
 
