@@ -11,6 +11,8 @@ portfolio/
 ├── commercial.html      # 03 Commercial decision-making
 ├── funding.html         # 04 Funding & cash strategy
 ├── transformation.html  # 05 AI & finance transformation
+├── playbook.html        # 06 Transformation playbook
+├── next-role.html       # 07 Next role / call to action
 ├── css/style.css
 └── assets/
     └── Kris-Fitzwater-CV.pdf   # (drop your CV here — filename must match)
@@ -30,17 +32,9 @@ Then open <http://localhost:8000>.
 ## Adding your CV
 
 Place your CV as `portfolio/assets/Kris-Fitzwater-CV.pdf`. The "Download CV"
-button in the header and the link on the final slide point to that exact
-filename.
+button in the header and the CTA on slide 07 point to that exact filename.
 
 ## Editing content
 
 Each slide is its own standalone HTML file. Copy follows the same pattern on
 every page (eyebrow → title → sections → pull quote), so edits stay simple.
-
-## Draft sections to review
-
-The original brief cut off partway through Slide 5. The two-column
-"Where I'm Focused" / "Why It Matters" blocks and the closing "Let's Talk"
-section on `transformation.html` are draft copy written to complete the
-narrative arc — refine or replace before sharing.

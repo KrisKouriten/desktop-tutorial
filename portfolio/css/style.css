@@ -217,6 +217,53 @@ li { margin: 0.35rem 0; }
   padding: 1.5rem;
 }
 
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 1rem;
+}
+.step {
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  padding: 1.5rem;
+}
+.step-number {
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: var(--accent);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+.step h3 {
+  margin: 0 0 0.5rem;
+  text-transform: none;
+  letter-spacing: -0.01em;
+  font-size: 1.15rem;
+  color: var(--ink);
+  font-weight: 600;
+}
+.step ul { margin: 0; }
+
+.cta {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 2rem;
+  margin: 2.5rem 0 1rem;
+  border-radius: 2px;
+}
+.cta h2 {
+  color: var(--paper);
+  margin-top: 0;
+}
+.cta .cv-download {
+  margin-left: 0;
+  background: var(--accent);
+}
+.cta .cv-download:hover { background: var(--paper); color: var(--ink); }
+
 .slide-nav {
   max-width: var(--max);
   margin: 4rem auto 0;
