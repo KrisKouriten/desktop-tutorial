@@ -1,6 +1,11 @@
 # Data files (keep samples only)
 data/*.csv
+data/*.db
 !data/samples/
+
+# Local secrets
+.env
+.env.local
 
 # Output
 output/*.csv
