@@ -35,19 +35,90 @@ The K-shaped recovery deepens: grocery and value retailers (Tesco, Sainsbury's, 
 ## Table of Contents
 
 1. Executive Summary
-2. PESTEL Analysis: Political
-3. PESTEL Analysis: Economic
-4. PESTEL Analysis: Social
-5. PESTEL Analysis: Technological
-6. PESTEL Analysis: Environmental
-7. PESTEL Analysis: Legal
-8. Consumer Spend Performance
-9. Major Retailer Trading Updates
-10. Local Challenges: Weather, Crime, Sport & Regional
-11. Calendar & Trading Shape: April 2026
-12. Outlook & Projections
-13. Data Sources & Methodology
-14. Appendix: Kouriten Store Network -- Regional Insights
+2. The April Retail Market at a Glance
+3. PESTEL Analysis: Political
+4. PESTEL Analysis: Economic
+5. PESTEL Analysis: Social
+6. PESTEL Analysis: Technological
+7. PESTEL Analysis: Environmental
+8. PESTEL Analysis: Legal
+9. May 2026: Consumer Spend Outlook
+10. May 2026: Key Retailer Events & Earnings
+11. May 2026: Local Challenges & Events
+12. May 2026: Calendar & Trading Shape
+13. May 2026: Outlook & Risk Assessment
+14. Data Sources & Methodology
+15. Appendix: Kouriten Store Network -- Regional Insights
+
+---
+
+## The April Retail Market at a Glance
+
+*Sources: Retail Gazette, ONS, BRC, CBI, GfK*
+
+### A Month of Contradictions
+
+April 2026 delivered the starkest contradiction in UK retail data in recent memory. On one hand, official March figures (released in April) showed resilience: ONS retail sales volumes rose 0.7% MoM and 1.7% YoY, with Q1 volumes up 1.6% QoQ. BRC like-for-like sales surged 3.1% YoY, the strongest in 11 months. On the other, forward-looking surveys collapsed: the CBI's distributive trades balance hit -68 -- the worst reading in over 40 years -- with 77% of retailers reporting sales down.
+
+Retail Gazette described the March figures as *"tentative relief"* but warned of *"more disruption to come,"* noting that Easter timing and fuel stockpiling flattered the numbers.
+
+### The Cost Wall Arrives
+
+April 1st saw the simultaneous implementation of:
+- **Business rates revaluation** -- new five-multiplier system; 40% RHL relief expired
+- **National Living Wage** -- up to GBP 12.71/hour (+4.1%)
+- **Employer NI** -- threshold frozen at GBP 5,000 per employee
+- **Employment Rights Act** -- day-one SSP, paternity/parental leave rights
+- **Packaging EPR labelling** -- binary recycle/do not recycle labels mandatory
+
+The BRC warned of a "staffing cull," reporting that employment costs rose GBP 5bn in 2025 alone. Retail Gazette reported that 61% of retail CFOs plan to reduce staff hours and overtime; 45% expect to freeze recruitment. The sector shed 74,000 jobs in the past year, taking total retail employment to 2.76 million -- the lowest on record.
+
+The BRC warned the UK risks a *"jobless generation"* as retail employment falls to record lows, with 780,000 young workers (aged 16-25) in the sector particularly exposed. The government responded with a GBP 1bn youth jobs scheme.
+
+### Consumer Confidence: Record Lows
+
+BRC-Opinium data (fieldwork 7-10 April) showed:
+- UK economic expectations held at **-53** -- the lowest level ever recorded
+- Personal financial outlook fell to **-21** (from -17), also a record low
+- 47% of consumers have not made a single big-ticket purchase in 2026
+- Shoppers doubling down on loyalty schemes, promotions, own-label and discounters
+
+GfK's index plunged to **-25** in April, the lowest since October 2023. The economic outlook sub-measures deteriorated sharply: past 12 months at -51 (-8pts MoM), next 12 months at -43 (-6pts).
+
+Despite this, consumers expect to *marginally increase* retail spending over the next three months (index at +5 vs +2 in March), suggesting a base of essential/grocery spend is holding even as discretionary collapses.
+
+### Store Closures & Restructuring
+
+April saw continued high street attrition:
+
+| Event | Detail |
+|---|---|
+| **GAME** | Final 3 standalone stores closed (Dudley, Lancaster, Sutton) -- end of a chain that once had ~300 stores |
+| **William Hill** | ~200 shops to close (~15% of 1,300 estate), blaming tax and regulatory pressure |
+| **Poundland** | ~100 stores now closed in restructuring |
+| **Cancer Research UK** | 88 charity shops closing by May; up to 100 more planned |
+| **Lloyds Banking Group** | 95 branch closures confirmed (May 2026 to March 2027) |
+| **Poundstretcher** | Bucking the trend: no closures planned; launching rent-reduction restructuring instead |
+
+### Store Openings & Refreshes
+
+Not all the news was negative. Retail Gazette highlighted 5 retailers with revamped store formats in April:
+
+- **Boux Avenue** -- Westfield White City refresh with new fitting rooms (concierge buttons, multiple lighting options)
+- **Whole Foods Market** -- 6 new London stores scheduled by end of June 2026
+- **Waitrose** -- Electronic shelf labels rolling out across entire estate by end of 2026
+- **Co-op** -- VoCoVo headsets deploying to 2,300+ stores for colleague communication and safety
+- **Tesco** -- AI shopping assistant trialling with 280,000 colleagues ahead of customer launch; conversational meal planning and basket building in the app
+
+### The K-Shaped Reality
+
+Retail Gazette and sector analysts consistently point to a "K-shaped recovery":
+
+**Winners:** Grocery (market growth 4.4%), value retail (Primark UK LFL +1.7%, Lidl +11.2%), health & beauty (+6.3%), digital subscriptions (+10.9%)
+
+**Losers:** Discretionary fashion (CBI collapse), travel (-3.3%), department stores (footfall weak), online-only retail (CBI online balance -51)
+
+The bifurcation is not just by category but by geography (south/east vs north/west) and demographic (affluent vs constrained households).
 
 ---
 
