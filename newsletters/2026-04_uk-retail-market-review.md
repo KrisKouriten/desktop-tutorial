@@ -7,21 +7,22 @@
 
 ## Executive Summary
 
-The US-Iran conflict that erupted on 28 February continues to dominate the UK retail landscape. Energy prices remain elevated (Brent crude above $116/barrel, UK wholesale gas up 75%), and the inflationary impact is now showing clearly in the data: CPI jumped to 3.3% in March, driven by transport and motor fuel costs. The Bank of England faces a knife-edge decision on 30 April, with markets split between a hold and a hike.
+The US-Iran conflict that erupted on 28 February continues to dominate the UK retail landscape. Energy prices remain elevated (Brent crude above $116/barrel, UK wholesale gas up 75%), and the inflationary impact is now clear: CPI jumped to 3.3% in March, driven by transport and motor fuel costs. The Bank of England held rates at 3.75% on 30 April by an 8-1 vote, with Chief Economist Huw Pill the sole dissenter voting for a hike to 4%.
 
-Consumer confidence collapsed further in April to -25 (GfK), the lowest since October 2023, with the sharpest deterioration in economic expectations (-8pts to -51 for past 12 months). However, retail sales in March showed surprising resilience: ONS volumes rose 0.7% MoM and BRC like-for-like sales surged 3.1% YoY -- the strongest since April 2025 -- boosted by an early Easter, Mother's Day and fuel stockpiling.
+The contradiction between official data and forward-looking surveys is stark. ONS retail sales volumes rose 0.7% MoM in March, and BRC like-for-like sales surged 3.1% YoY -- the strongest since April 2025 -- boosted by an early Easter, Mother's Day and fuel stockpiling. Yet the CBI's April retail survey plunged to -68, the sharpest year-on-year decline in sales in over 40 years (the worst since the series began in 1983), with 77% of firms reporting sales down. The May outlook darkened further to -60, the gloomiest since the Covid pandemic.
 
-The "wall of cost" hit retailers on 1 April as planned: the business rates revaluation and new five-multiplier system, end of the 40% RHL relief, National Living Wage rising to GBP 12.71/hour, Employment Rights Act provisions, and packaging EPR labelling requirements all went live simultaneously. The BRC estimates employment costs alone have risen by over GBP 5 billion.
+Consumer confidence collapsed to -25 (GfK April), the lowest since October 2023, with the sharpest deterioration in economic expectations (-8pts to -51). The "wall of cost" hit retailers on 1 April: business rates revaluation, end of the 40% RHL relief, National Living Wage rising to GBP 12.71/hour, Employment Rights Act provisions, and packaging EPR labelling requirements all went live simultaneously. The BRC estimates employment costs alone have risen by over GBP 5 billion.
 
-The K-shaped recovery deepens: grocery and value retailers (Tesco, Sainsbury's, Lidl) continue to gain share, while discretionary and mid-market segments face acute pressure. The OECD has downgraded UK growth to just 0.5% for 2026 -- the steepest revision of any major economy. Store closures continue apace: The Original Factory Shop shuttered all stores; Poundland has now closed 100 locations; Cancer Research UK closing 88 charity shops by May.
+The K-shaped recovery deepens: grocery and value retailers (Tesco, Sainsbury's, Lidl) continue to gain share, while discretionary and mid-market segments face acute pressure. The OECD has downgraded UK growth to just 0.5% for 2026. Store closures accelerate: The Original Factory Shop shuttered all stores; Poundland closed ~100 locations; Cancer Research UK closing 88 charity shops by May.
 
 **Key figures at a glance:**
 
 | Indicator | Value | Direction |
 |---|---|---|
 | CPI Inflation | 3.3% (Mar) | Up from 3.0% (Feb); transport-driven |
-| Bank Rate | 3.75% | Decision due 30 April |
+| Bank Rate | 3.75% | Held 30 Apr (8-1 vote) |
 | GfK Consumer Confidence | -25 (Apr) | Down 4pts; lowest since Oct 2023 |
+| CBI Retail Sales Survey | -68 (Apr) | Worst in 40+ years |
 | ONS Retail Sales (MoM) | +0.7% (Mar) | Rebound from -0.6% (Feb) |
 | BRC Like-for-Like Sales (YoY) | +3.1% (Mar) | Strongest in 11 months (Easter effect) |
 | Unemployment Rate | 5.2% | Highest since late 2020 |
@@ -101,6 +102,74 @@ The Employment Rights Act 2025 introduces the most significant reforms in decade
 ### Store Closures
 
 2025 saw 17,349 store closures and 201,953 redundancies (Centre for Retail Research). The cull has accelerated in 2026: The Original Factory Shop shuttered all remaining stores (Week 16); Poundland has now closed ~100 locations; Cancer Research UK closing 88 charity shops by May with up to 100 more planned; the final three GAME stores shutting from April; Lloyds Banking Group confirmed 95 branch closures (May 2026 to March 2027). River Island closed 32 stores in January including Brighton, Oxford and Edinburgh.
+
+---
+
+## 3. PESTEL Analysis: Economic
+
+### The Iran Conflict -- The Dominant Macro Shock
+
+On 28 February 2026, Israel and the United States began military strikes against Iran. The IEA characterised this as the "largest supply disruption in the history of the global oil market," with ~20 million barrels/day affected via the Strait of Hormuz and production cut by at least 10 million barrels in the Gulf.
+
+| Indicator | Pre-Conflict | Current (Late March) | Change |
+|---|---|---|---|
+| Brent Crude ($/bbl) | ~$73 | >$116 | +59% |
+| UK Wholesale Gas | Baseline | +75% in 30 days | +75% |
+| Petrol (p/litre) | ~140p | ~154p | +10% |
+| Diesel (p/litre) | ~145p | ~174p | +20% |
+
+The physical damage is structural: Ras Laffan (Qatar) is offline for years, Kharg Island has been demolished, South Pars has been struck. Cornwall Insight estimates the energy price cap from July will jump by nearly GBP 200.
+
+### Inflation
+
+**UPDATE (22 April 2026):** CPI rose by 3.3% in the 12 months to March 2026, up from 3.0% in February. The largest upward contribution came from transport, particularly motor fuels. CPIH rose to 3.4%. Core inflation was 3.2%. The Bank of England expects CPI between 3.0-3.5% in Q2/Q3 2026. The OECD predicts UK inflation could hit 4% this year -- up 1.5pp from its previous forecast.
+
+The OBR estimates the energy spike could add 1% to consumer prices by year-end if current conditions persist. Food and non-alcoholic beverages inflation stands at 3.3%, with the BRC forecasting over 5% food price rises through 2026. BoE Governor Andrew Bailey told the BBC on 14 April that the world faces a "very big energy shock" that will push up prices.
+
+### Interest Rates
+
+The MPC voted unanimously to hold Bank Rate at 3.75% on 19 March -- the first unanimous hold since September 2021. All four members who previously voted for cuts shifted to hold. Markets now price in at least two rate hikes in 2026, a sharp reversal from earlier expectations of two cuts.
+
+**UPDATE (30 April 2026):** The MPC voted 8-1 to hold Bank Rate at 3.75%. Chief Economist Huw Pill cast the sole dissenting vote for a 25bp hike to 4%, citing the risk of inflation becoming embedded. The MPC stated that monetary policy cannot influence energy prices but will be set to ensure the economic adjustment occurs in a way that achieves the 2% target sustainably. The next decision is 19 June 2026.
+
+### GDP & Growth
+
+UK GDP was flat in January 2026. The Bank estimates underlying quarterly growth at 0.1-0.2% for Q1.
+
+| Forecaster | 2026 GDP Growth |
+|---|---|
+| OECD (March 2026) | 0.7% (downgraded from 1.2%) |
+| OBR (March 2026) | 1.1% |
+| HM Treasury average | 0.9% |
+| EY ITEM Club | 0.9% |
+| Goldman Sachs | 1.4% |
+
+The OECD's downgrade was the steepest of any major economy. The CNBC headline: *"Iran war will spare no major economy, but the UK is more vulnerable than others."*
+
+### Labour Market
+
+Unemployment at 5.2% (Nov 2025-Jan 2026) -- highest since late 2020 and up from 4.4% a year ago. Youth unemployment (16-24) at 16.0%, up from 14.5%. Vacancies fell to 721,000 (below pre-pandemic levels). Payrolled employees declined 49,000 YoY.
+
+Average real wages grew just 0.7% (including bonuses) and 0.5% (excluding bonuses) -- barely keeping pace with costs. The OBR forecasts unemployment could reach 5.3% in 2026.
+
+### Consumer Confidence (GfK)
+
+**UPDATE (April 2026):** The GfK index plunged to -25 in April (from -21 in March), its lowest since October 2023. Four of five measures fell, with economic expectations deteriorating sharply.
+
+| GfK Sub-Measure | April 2026 | March 2026 | MoM Change |
+|---|---|---|---|
+| Overall Index | -25 | -21 | -4 |
+| Personal Finances (last 12m) | -11 | -7 | -4 |
+| Personal Finances (next 12m) | -4 | +1 | -5 |
+| General Economy (last 12m) | -51 | -43 | -8 |
+| General Economy (next 12m) | -43 | -37 | -6 |
+| Major Purchase Index | -18 | -18 | 0 |
+
+The collapse in confidence is now pervasive: personal finances expectations turned negative for the first time since late 2024, and the general economic outlook measures are at their most pessimistic in over two years. Rising fuel costs are the primary concern, squeezing household budgets and feeding expectations of further price increases.
+
+### Currency
+
+GBP/USD fell from $1.348 to $1.321 in March (-2%), hitting its lowest since December 2025. GBP/EUR traded between 1.152-1.157. Sterling weakness raises import costs for retailers sourcing internationally.
 
 ---
 
@@ -199,71 +268,42 @@ Retail media forecast to overtake combined investment in linear and streaming TV
 
 ---
 
-## 3. PESTEL Analysis: Economic
+## 6. PESTEL Analysis: Environmental
 
-### The Iran Conflict -- The Dominant Macro Shock
+### Packaging EPR (Extended Producer Responsibility)
 
-On 28 February 2026, Israel and the United States began military strikes against Iran. The IEA characterised this as the "largest supply disruption in the history of the global oil market," with ~20 million barrels/day affected via the Strait of Hormuz and production cut by at least 10 million barrels in the Gulf.
+The most significant environmental regulation change for retail in 2026:
 
-| Indicator | Pre-Conflict | Current (Late March) | Change |
-|---|---|---|---|
-| Brent Crude ($/bbl) | ~$73 | >$116 | +59% |
-| UK Wholesale Gas | Baseline | +75% in 30 days | +75% |
-| Petrol (p/litre) | ~140p | ~154p | +10% |
-| Diesel (p/litre) | ~145p | ~174p | +20% |
+- **31 March 2026:** All packaging (except flexible films) must carry binary "recycle" / "do not recycle" labels
+- **1 April 2026:** UK Packaging PRO formally commences operations
+- **Fee modulation from 2026-27:** Red-amber-green (RAG) recyclability rating; base rate for plastics rises from GBP 423 to GBP 455 per tonne
+- **Financial scale:** GBP 1.4 billion invested in Year 1; expected to raise over GBP 1.1 billion annually for local authorities
+- **Deposit Return Scheme:** Now set for 1 October 2027
 
-The physical damage is structural: Ras Laffan (Qatar) is offline for years, Kharg Island has been demolished, South Pars has been struck. Cornwall Insight estimates the energy price cap from July will jump by nearly GBP 200.
+### Climate & Sustainability Reporting
 
-### Inflation
+- UK Sustainability Reporting Standards (UK SRS) finalised for voluntary use in early 2026
+- Transition Plans required from 19 January 2026 for companies seeking market admission where climate is material
+- ESOS Phase 4: Energy-use data to be published publicly for the first time
+- Streamlined Energy and Carbon Reporting (SECR) continues for companies with turnover GBP 36m+
+- New minimum requirements for reporting carbon offsets
 
-**UPDATE (22 April 2026):** CPI rose by 3.3% in the 12 months to March 2026, up from 3.0% in February. The largest upward contribution came from transport, particularly motor fuels. CPIH rose to 3.4%. Core inflation was 3.2%. The Bank of England expects CPI between 3.0-3.5% in Q2/Q3 2026. The OECD predicts UK inflation could hit 4% this year -- up 1.5pp from its previous forecast.
+### Greenwashing Enforcement
 
-The OBR estimates the energy spike could add 1% to consumer prices by year-end if current conditions persist. Food and non-alcoholic beverages inflation stands at 3.3%, with the BRC forecasting over 5% food price rises through 2026. BoE Governor Andrew Bailey told the BBC on 14 April that the world faces a "very big energy shock" that will push up prices.
+CMA published updated supply chain guidance (22 January 2026). Retailers cannot blindly rely on supplier assurances. Generic terms like "eco-friendly," "green," "climate neutral" are prohibited unless backed by recognised performance standards or third-party certification. Fines up to 10% of global turnover.
 
-### Interest Rates
+### Weather Impact on Retail (March 2026)
 
-The MPC voted unanimously to hold Bank Rate at 3.75% on 19 March -- the first unanimous hold since September 2021. All four members who previously voted for cuts shifted to hold. Markets now price in at least two rate hikes in 2026, a sharp reversal from earlier expectations of two cuts.
+2026 has been exceptionally wet. South-west England received 216mm rainfall (184% of long-term average). Named storms Chandra and Goretti brought 50 days of continuous rain. The Met Office issued 154 severe weather warnings in the year to early March.
 
-The MPC decision on 30 April is finely balanced. Markets are split between a hold and a hike. Most economists expect rates to hold at 3.75%, but some analysts say several policymakers could vote for a rise to prevent headline inflation feeding into wages.
+**Regional impacts:**
+- **Somerset:** 29 square miles of Levels and Moors flooded; major incident declared 27 January, not lifted until 18 February
+- **Devon/Cornwall:** 373 of 401 flooded properties were in the south-west; Tarka line closed 24 days
+- **West Midlands:** Temporary flood barriers deployed along River Severn at Bewdley
+- **Thames Valley:** Barriers deployed at Oxford; groundwater flooding in West Sussex
+- **Transport:** Parliamentary debate on 19 March on rail infrastructure resilience
 
-### GDP & Growth
-
-UK GDP was flat in January 2026. The Bank estimates underlying quarterly growth at 0.1-0.2% for Q1.
-
-| Forecaster | 2026 GDP Growth |
-|---|---|
-| OECD (March 2026) | 0.7% (downgraded from 1.2%) |
-| OBR (March 2026) | 1.1% |
-| HM Treasury average | 0.9% |
-| EY ITEM Club | 0.9% |
-| Goldman Sachs | 1.4% |
-
-The OECD's downgrade was the steepest of any major economy. The CNBC headline: *"Iran war will spare no major economy, but the UK is more vulnerable than others."*
-
-### Labour Market
-
-Unemployment at 5.2% (Nov 2025-Jan 2026) -- highest since late 2020 and up from 4.4% a year ago. Youth unemployment (16-24) at 16.0%, up from 14.5%. Vacancies fell to 721,000 (below pre-pandemic levels). Payrolled employees declined 49,000 YoY.
-
-Average real wages grew just 0.7% (including bonuses) and 0.5% (excluding bonuses) -- barely keeping pace with costs. The OBR forecasts unemployment could reach 5.3% in 2026.
-
-### Consumer Confidence (GfK)
-
-**UPDATE (April 2026):** The GfK index plunged to -25 in April (from -21 in March), its lowest since October 2023. Four of five measures fell, with economic expectations deteriorating sharply.
-
-| GfK Sub-Measure | April 2026 | March 2026 | MoM Change |
-|---|---|---|---|
-| Overall Index | -25 | -21 | -4 |
-| Personal Finances (last 12m) | -11 | -7 | -4 |
-| Personal Finances (next 12m) | -4 | +1 | -5 |
-| General Economy (last 12m) | -51 | -43 | -8 |
-| General Economy (next 12m) | -43 | -37 | -6 |
-| Major Purchase Index | -18 | -18 | 0 |
-
-The collapse in confidence is now pervasive: personal finances expectations turned negative for the first time since late 2024, and the general economic outlook measures are at their most pessimistic in over two years. Rising fuel costs are the primary concern, squeezing household budgets and feeding expectations of further price increases.
-
-### Currency
-
-GBP/USD fell from $1.348 to $1.321 in March (-2%), hitting its lowest since December 2025. GBP/EUR traded between 1.152-1.157. Sterling weakness raises import costs for retailers sourcing internationally.
+**April outlook (Met Office):** Near-average temperatures with classic April showers pattern. High pressure becoming more dominant, particularly in the south, with a northwest-southeast split. Northern and western parts likely to remain unsettled; south and east should see the best of drier interludes.
 
 ---
 
@@ -308,45 +348,6 @@ New DMCCA requirements (pre-contract disclosure, one-click cancellation, cooling
 
 ---
 
-## 6. PESTEL Analysis: Environmental
-
-### Packaging EPR (Extended Producer Responsibility)
-
-The most significant environmental regulation change for retail in 2026:
-
-- **31 March 2026:** All packaging (except flexible films) must carry binary "recycle" / "do not recycle" labels
-- **1 April 2026:** UK Packaging PRO formally commences operations
-- **Fee modulation from 2026-27:** Red-amber-green (RAG) recyclability rating; base rate for plastics rises from GBP 423 to GBP 455 per tonne
-- **Financial scale:** GBP 1.4 billion invested in Year 1; expected to raise over GBP 1.1 billion annually for local authorities
-- **Deposit Return Scheme:** Now set for 1 October 2027
-
-### Climate & Sustainability Reporting
-
-- UK Sustainability Reporting Standards (UK SRS) finalised for voluntary use in early 2026
-- Transition Plans required from 19 January 2026 for companies seeking market admission where climate is material
-- ESOS Phase 4: Energy-use data to be published publicly for the first time
-- Streamlined Energy and Carbon Reporting (SECR) continues for companies with turnover GBP 36m+
-- New minimum requirements for reporting carbon offsets
-
-### Greenwashing Enforcement
-
-CMA published updated supply chain guidance (22 January 2026). Retailers cannot blindly rely on supplier assurances. Generic terms like "eco-friendly," "green," "climate neutral" are prohibited unless backed by recognised performance standards or third-party certification. Fines up to 10% of global turnover.
-
-### Weather Impact on Retail (March 2026)
-
-2026 has been exceptionally wet. South-west England received 216mm rainfall (184% of long-term average). Named storms Chandra and Goretti brought 50 days of continuous rain. The Met Office issued 154 severe weather warnings in the year to early March.
-
-**Regional impacts:**
-- **Somerset:** 29 square miles of Levels and Moors flooded; major incident declared 27 January, not lifted until 18 February
-- **Devon/Cornwall:** 373 of 401 flooded properties were in the south-west; Tarka line closed 24 days
-- **West Midlands:** Temporary flood barriers deployed along River Severn at Bewdley
-- **Thames Valley:** Barriers deployed at Oxford; groundwater flooding in West Sussex
-- **Transport:** Parliamentary debate on 19 March on rail infrastructure resilience
-
-**April outlook (Met Office):** Near-average temperatures with classic April showers pattern. High pressure becoming more dominant, particularly in the south, with a northwest-southeast split. Northern and western parts likely to remain unsettled; south and east should see the best of drier interludes.
-
----
-
 ## 8. Consumer Spend Performance
 
 ### ONS Retail Sales (March 2026 -- Released 24 April)
@@ -371,20 +372,30 @@ Key drivers: March rebounded from February's -0.6% decline. Q1 2026 retail volum
 
 March breakdown: House and garden purchases, Mother's Day gifts, mobile phones, computing, beauty products, and toys/baby goods all drove growth. The +3.1% LFL far exceeded the 0.9% market expectation. Caution: the Easter timing effect (Good Friday fell on 3 April) flatters the comparison; underlying momentum remains weaker than headline suggests.
 
-### Barclaycard Consumer Spending (February 2026)
+### Barclaycard Consumer Spending (March 2026)
 
 | Category | YoY Growth | Trend |
 |---|---|---|
-| Overall Card Spending | +1.0% | Below CPIH 3.2% = real decline |
-| Essential Spending | -0.6% | 7th consecutive month of decline |
-| Non-Essential Spending | +1.8% | 6-month high |
-| Clothing | +3.7% | Best since August 2025 |
-| Health & Beauty | +6.4% | Continued strong growth |
-| Entertainment | +9.9% | 11-month high |
-| Hospitality & Leisure | +3.6% | Restaurants +2.9%, Bars +3.3% |
-| Digital/Streaming | +9.3% (Jan) | Structural growth |
+| Essential Spending | +0.5% | First YoY rise since July 2025 |
+| Fuel Spending | +1.6% | First increase since February 2023 |
+| Non-Essential Spending | +1.1% | Slowed from Feb (+1.8%) |
+| Travel | -3.3% | First decline since March 2021 |
+| Digital Content/Subscriptions | +10.9% | Continued strong growth |
+| Health & Beauty | +6.3% | Continued strong growth |
+| Hotels/Accommodation | +1.2% | Staycation preference amid conflict |
 
-Consumer concerns: 82% worried about Middle East impact on fuel costs; 81% on energy bills; 78% on inflation; 76% on food prices. 46% taking active steps to cut back.
+Consumer confidence in UK economy fell to 21% (from 25% in Feb). 71% remain confident in ability to live within means. The shift: essential spending has turned positive (fuel stockpiling) while discretionary travel is the new casualty of the Iran conflict.
+
+### CBI Retail Sales Survey (April 2026) -- CRITICAL
+
+The CBI's monthly retail sales balance plunged to **-68** in April (from -52 in March), the lowest reading since the series began in 1983 -- the sharpest YoY decline in over 40 years.
+
+- **77% of firms** reported sales down vs a year ago; only 9% reported an increase
+- **Online retail sales** collapsed to -51 (from -11 in March), fastest fall since January 2024
+- **May outlook** darkened to -60 (from -49), gloomiest since March 2021 (Covid pandemic)
+- Survey based on 61 retail chains, collected 26 March to 14 April
+
+This survey represents the most alarming forward indicator in the dataset and suggests March's ONS/BRC resilience was a false dawn driven by Easter timing rather than genuine consumer recovery.
 
 ### Kantar Grocery Market Share (Latest: 12 weeks to 28 Dec 2025)
 
