@@ -348,366 +348,187 @@ New DMCCA requirements (pre-contract disclosure, one-click cancellation, cooling
 
 ---
 
-## 8. Consumer Spend Performance
+## 8. May 2026: Consumer Spend Outlook
 
-### ONS Retail Sales (March 2026 -- Released 24 April)
+### What the Data is Telling Us
 
-| Indicator | Value | MoM Change | YoY Change |
-|---|---|---|---|
-| Total Retail Sales Volume | Rebounded | +0.7% | +1.7% |
-| Total Spend (in-store + online) | Rose | +1.8% | -- |
-| Non-Food Stores | Grew | Art, cosmetics and toiletries strong | New collections drove growth |
-| Fuel Sales | Rose sharply | Motorists stockpiling as prices rose | -- |
-| Online Retail (% of total) | 28.7% | +0.5pp | Rising |
+The disconnect between backward-looking and forward-looking indicators is the defining feature heading into May:
 
-Key drivers: March rebounded from February's -0.6% decline. Q1 2026 retail volumes rose 1.6% vs Q4 2025. Good Friday (3 April) fell within the reporting period, boosting the figures. Non-food stores saw strong cosmetics/toiletries and art sales. Fuel sales surged as consumers stockpiled ahead of further price rises. GlobalData cautioned that "deteriorating consumer confidence points to calm before the storm."
-
-### BRC-KPMG Retail Sales Monitor
-
-| Period | Like-for-Like YoY | Total YoY | Commentary |
-|---|---|---|---|
-| January 2026 | +2.3% | +2.7% | Fastest growth since August |
-| February 2026 | +0.7% | +1.1% | Weakest in 9 months; wet weather |
-| **March 2026** | **+3.1%** | **+3.5%** | **Strongest in 11 months; early Easter + Mother's Day** |
-
-March breakdown: House and garden purchases, Mother's Day gifts, mobile phones, computing, beauty products, and toys/baby goods all drove growth. The +3.1% LFL far exceeded the 0.9% market expectation. Caution: the Easter timing effect (Good Friday fell on 3 April) flatters the comparison; underlying momentum remains weaker than headline suggests.
-
-### Barclaycard Consumer Spending (March 2026)
-
-| Category | YoY Growth | Trend |
+| Indicator | Backward (Mar/Apr Actuals) | Forward (May Outlook) |
 |---|---|---|
-| Essential Spending | +0.5% | First YoY rise since July 2025 |
-| Fuel Spending | +1.6% | First increase since February 2023 |
-| Non-Essential Spending | +1.1% | Slowed from Feb (+1.8%) |
-| Travel | -3.3% | First decline since March 2021 |
-| Digital Content/Subscriptions | +10.9% | Continued strong growth |
-| Health & Beauty | +6.3% | Continued strong growth |
-| Hotels/Accommodation | +1.2% | Staycation preference amid conflict |
+| ONS Retail Sales | +0.7% MoM (Mar) | April data due 22 May -- expected weaker |
+| BRC LFL Sales | +3.1% YoY (Mar, Easter-boosted) | Easter unwind likely to drag April/May readings |
+| CBI Retail Survey | -68 (Apr, worst in 40yr) | May outlook -60 (gloomiest since Covid) |
+| GfK Confidence | -25 (Apr) | Continued deterioration expected |
+| Barclays Card Spend | +1.1% non-essential (Mar) | Travel spending (-3.3%) signalling consumer retreat |
 
-Consumer confidence in UK economy fell to 21% (from 25% in Feb). 71% remain confident in ability to live within means. The shift: essential spending has turned positive (fuel stockpiling) while discretionary travel is the new casualty of the Iran conflict.
+**Key risk:** March's ONS/BRC resilience was driven by Easter timing (Good Friday fell within the March reporting period) and fuel stockpiling. The CBI survey at -68 -- with 77% of firms reporting sales down -- is the most reliable forward indicator and suggests May will be significantly weaker.
 
-### CBI Retail Sales Survey (April 2026) -- CRITICAL
+### Spend Categories to Watch in May
 
-The CBI's monthly retail sales balance plunged to **-68** in April (from -52 in March), the lowest reading since the series began in 1983 -- the sharpest YoY decline in over 40 years.
-
-- **77% of firms** reported sales down vs a year ago; only 9% reported an increase
-- **Online retail sales** collapsed to -51 (from -11 in March), fastest fall since January 2024
-- **May outlook** darkened to -60 (from -49), gloomiest since March 2021 (Covid pandemic)
-- Survey based on 61 retail chains, collected 26 March to 14 April
-
-This survey represents the most alarming forward indicator in the dataset and suggests March's ONS/BRC resilience was a false dawn driven by Easter timing rather than genuine consumer recovery.
-
-### Kantar Grocery Market Share (Latest: 12 weeks to 28 Dec 2025)
-
-| Retailer | Market Share | YoY Change | Sales Growth |
-|---|---|---|---|
-| Tesco | 28.7% | +0.2pp | +4.3% |
-| Sainsbury's | 16.3% | +0.3pp | +3.9% |
-| Asda | 12.8% | -0.5pp | -1.2% |
-| Aldi | 10.2% | -0.1pp | +1.8% |
-| Lidl | 7.8% | +0.5pp | +11.2% |
-| Morrisons | 8.4% | -0.2pp | +0.6% |
-| Ocado | 2.1% | +0.2pp | +15.0% |
-
-Grocery market growth accelerated to 4.4% (4 weeks to 22 March). Tesco's market share at a decade high. Lidl and Ocado the fastest-growing grocers.
-
-### GfK Consumer Confidence (March 2026)
-
-Survey of 2,001 individuals aged 16+ (2-16 March 2026):
-
-| Component | Score | MoM | YoY |
-|---|---|---|---|
-| Overall Index | -21 | -2 | -2 |
-| Personal Finances (last 12m) | -7 | 0 | +2 |
-| Personal Finances (next 12m) | +1 | -1 | -1 |
-| General Economy (last 12m) | -43 | +1 | +3 |
-| General Economy (next 12m) | -37 | -6 | -8 |
-| Major Purchase Index | -18 | -4 | -1 |
-| Savings Index | +27 | +6 | +2 |
-
-The collapse in economic expectations (-6pts) and Major Purchase Index (-4pts) alongside rising Savings Index (+6pts) confirms households are shifting into defensive mode.
-
-### Deloitte Consumer Tracker (Q4 2025)
-
-Consumer confidence fell to -11.1% -- lowest in two years. Overall net spending on leisure declined for the second consecutive quarter. Among consumers spending less: 32% cutting luxuries; 39% self-described as "frugal"; 25% spending only on essentials. Spending intentions on eating out expected to decline -9.7pp; pubs/bars -9.6pp.
-
-### Regional Spend Patterns (ONS/Visa Card Spending Analysis)
-
-| Region | Key Characteristics |
-|---|---|
-| London & South East | Largest card spend share; highest online proportion (47%); face-to-face below 2019 levels |
-| North East, West Midlands, Wales, Yorkshire | Face-to-face spend at highest levels since 2019 |
-| Scotland | 87% of face-to-face spend stays within region (highest UK); 39% online / 61% in-store |
-| Northern Ireland | Lowest online share at 36% |
-| North West, South West | Monthly spend close to 2019 levels but patchy recovery |
-
-Recovery described as "K-shaped": clear bifurcation between affluent southern consumers and constrained northern/western regions, and between grocery (resilient) and discretionary (weak).
+| Category | May Expectation | Driver |
+|---|---|---|
+| Grocery/Food | Continued growth ~4-5% | Inflation-driven; BRC forecasts >5% food price rises |
+| Fuel | Elevated volumes | Stockpiling behaviour; prices still rising |
+| Health & Beauty | +6-8% growth likely | Structural wellness trend; resilient category |
+| Fashion/Clothing | Pressure increasing | CBI survey collapse; discretionary squeeze |
+| Home/Garden | Seasonal uptick possible | Bank holidays, half-term, weather-dependent |
+| Travel/Holidays | Declining | -3.3% in March; Iran conflict hitting confidence |
+| Online/Digital | Mixed | Online sales share 28.7%; CBI online balance crashed to -51 |
+| Eating Out | Declining | Deloitte: -9.7pp spending intentions; cost-of-living pressure |
 
 ---
 
-## 9. Major Retailer Trading Updates
+## 9. May 2026: Key Retailer Events & Earnings
 
-### Grocery & Food Retail
+### Earnings Calendar
 
-**Tesco (TSCO.L)** -- Q3 & Christmas (19 weeks to 3 Jan 2026)
-| Metric | Value |
-|---|---|
-| UK LFL Sales | +3.7% |
-| Christmas Period LFL | +3.2% |
-| Fresh Food LFL | +6.6% |
-| Finest Range | +13.0% (party food +22%) |
-| Online Sales | +11.2% (reaching 70% of UK households) |
-| Whoosh Delivery | +47% |
-| Market Share | 28.7% (decade high) |
-| Profit Guidance | Upper end of GBP 2.9-3.1bn range |
-| Share Price | ~477p |
-| Analyst Consensus | Buy; target 500p |
+| Date | Company | Event | Key Watch |
+|---|---|---|---|
+| 7 May | **JD Sports** | FY 2025/26 Results | Revenue ~GBP 12.74bn (+11%); PBT expected ~GBP 832m (-10%); LFL -1.8%; North America outlook |
+| 13 May | **boohoo Group** | FY Results | Turnaround credibility test; "comfortably" beat guidance claim |
+| 22 May | **ONS Retail Sales** | April 2026 Data | First post-Easter, post-cost-wall reading; critical for sector outlook |
+| 27 May | **Marks & Spencer** | FY 2025/26 Results | Food share at 4.0% (historic high); Clothing & Home cyberattack recovery; PBT trajectory |
 
-Note: April tax increases cost Tesco GBP 235m; new packaging rules added GBP 90m.
+### Other Retailer Developments to Monitor
 
-**Sainsbury's (SBRY.L)** -- H1 FY2025/26
-| Metric | Value |
-|---|---|
-| Retail Underlying Operating Profit | GBP 504m (+0.2%) |
-| LFL Sales | +4.5% |
-| Retail Sales ex-Fuel | GBP 15.6bn (+4.8%) |
-| Full-Year Profit Guidance | Raised to >GBP 1bn |
-| Market Share | 16.3% (near-decade high) |
-| Share Price | ~346p |
-| Analyst Consensus | Buy; target 350p |
-| Special Dividend | GBP 250m (from Sainsbury Bank sale) |
-
-**Marks & Spencer (MKS.L)** -- Q3 Christmas (13 weeks to 27 Dec 2025)
-| Metric | Value |
-|---|---|
-| Food Underlying Sales | +6.6% (LFL +5.6%, volume +2.3%) |
-| Food Market Share | 4.0% (historic high) |
-| Clothing & Home Sales | -2.9% (cyberattack recovery) |
-| Ocado Retail Sales | +13.7% |
-| H1 Statutory PBT | GBP 184.1m (-55% due to cyberattack) |
-| Share Price | ~327p |
-| Analyst Consensus | Buy; target 428p (~32% upside) |
-| Investment | GBP 70m in store colleague pay |
-
-### General Merchandise & Fashion
-
-**Next (NXT.L)** -- FY ending January 2026 (reported 26 March)
-| Metric | Value |
-|---|---|
-| Pre-Tax Profit | GBP 1,158m (+14.5%) |
-| Revenue | GBP 6.90bn (+12.8%) |
-| Full-Price Sales | +10.9% (UK +5.9%, International +38%) |
-| EPS | 745.4p (+17.0%) |
-| FY 2026/27 Guidance | PBT GBP 1,210m (+4.5%); GBP 500m buyback |
-| Special Dividend | GBP 3.10/share |
-| Analyst Consensus | Buy; target 14,792p (~24% upside) |
-
-**Primark / ABF (ABF.L)** -- Q1 FY2026 (16 weeks to 3 Jan 2026)
-| Metric | Value |
-|---|---|
-| Total Primark Revenue | GBP 3.5bn |
-| UK LFL | +1.7% (market share gains) |
-| Total UK Sales | +3% |
-| Continental Europe LFL | -5.7% |
-| US Sales | +12% |
-| Outlook | ABF cut full-year profit/EPS guidance; potential demerger decision April |
-
-**JD Sports (JD.L)** -- Q4 FY2025/26
-| Metric | Value |
-|---|---|
-| Q4 Organic Sales | +1.4% |
-| LFL Sales | -1.8% |
-| North America LFL | +5.3% (standout) |
-| FY PBT Expected | GBP 849m (-8.0% YoY) |
-| Free Cash Flow Target | GBP 400m |
-| Buyback Completed | GBP 200m |
-| FY Results | 7 May 2026 |
-
-**boohoo Group (BOO.L):** Annual profits on track to "comfortably" beat guidance; turnaround gaining momentum.
-
-### Home, DIY & Specialty
-
-**Kingfisher / B&Q (KGF.L)**
-| Metric | Value |
-|---|---|
-| Adjusted PBT | GBP 560m (year ending Jan 2026) |
-| E-commerce Sales | +20% (ex-Screwfix) |
-| AI Revenue | GBP 165m from AI product recommendations |
-| Analyst View | Downgraded to Sell by Deutsche Bank; target cut to 180p |
+- **Primark/ABF:** Demerger decision expected -- could be announced any time in May
+- **Tesco:** Full year results (April); April tax cost impact (GBP 235m NI + GBP 90m packaging) flowing through
+- **Sainsbury's:** Full year results (30 April); GBP 250m special dividend progress
+- **Poundland:** Continued store closure programme; restructuring update
+- **River Island:** Post-closure performance; 32 stores shuttered in January
 
 ### Companies on Watch
 
-| Company | Reason |
-|---|---|
-| M&S | Cyberattack recovery trajectory; Clothing & Home turnaround |
-| ABF/Primark | Potential demerger decision in April |
-| JD Sports | FY results 7 May; weak LFL trend |
-| Boohoo | Turnaround credibility test |
-| Game Retail, Claire's | Among recent retail casualties |
-| Poundland, River Island | In restructuring |
+| Company | Risk Level | Reason |
+|---|---|---|
+| JD Sports | Medium | LFL decline; weak consumer spending; May results pivotal |
+| boohoo | High | Turnaround must deliver; online retail collapsing (CBI -51) |
+| M&S | Medium | Cyberattack drag on C&H; food strong but margin pressure from NLW/NI |
+| ABF/Primark | High | Demerger decision; EU LFL -5.7%; cut guidance |
+| Kingfisher | High | Deutsche Bank downgrade to Sell; DIY/home under pressure |
 
 ---
 
-## 10. Local Challenges: Weather, Crime, Sport & Regional
+## 10. May 2026: Local Challenges & Events
 
-### Weather Impact by Region
+### Weather Outlook (Met Office)
 
-| Region | Impact | Severity |
-|---|---|---|
-| **South West** | 216mm rainfall (184% avg); Somerset Levels flooded (29 sq miles); 373 of 401 flooded properties; Tarka line closed 24 days; major incident declared Jan-Feb | Critical |
-| **West Midlands** | Temporary flood barriers on River Severn at Bewdley; transport disruption | High |
-| **Thames Valley** | Barriers at Oxford; ongoing groundwater flooding in West Sussex | Moderate |
-| **Northern Ireland** | Wettest January in 149 years | High |
-| **Southern England** | 6th wettest January since 1836; 56% above average rainfall; 50 days continuous rain in parts | High |
-| **Nationwide** | 154 Met Office severe weather warnings (year to early March); mid-March Arctic storm with 70mph winds | High |
+Low pressure systems likely to dominate early May, with showers and rain at times, heavy in places. Early May bank holiday weekend expected to be changeable with rain spreading from the southwest, possibly heavy and thundery. Later in May, more settled and drier conditions should develop with temperatures rising slightly above normal.
 
-Wet weather was the primary driver of February's retail sales decline. Consumer footfall fell 4% vs January. Direct impact on garden centres, DIY, outdoor leisure, and clothing. Indoor/online channels benefited relatively.
+**Retail impact:** Unsettled early May could dampen bank holiday weekend footfall, particularly for outdoor retail destinations and garden centres. Improving conditions later in the month should support half-term trading.
 
-### Retail Crime
+### Sporting Events
 
-Retail crime remains at crisis levels, with clear regional variation:
-
-| Metric | Value |
-|---|---|
-| Total theft incidents (year to Aug 2025) | 20 million+ |
-| Cost of stolen goods | GBP 2.2 billion (record) |
-| Police-recorded shoplifting (year to Mar 2025) | 530,000+ offences (+20%, highest ever) |
-| Violence against staff | 2,000+ incidents/day (2x pre-pandemic) |
-| Retailer crime prevention spend | GBP 1.8 billion annually |
-| "Crime tax" per transaction (local shops) | 11p |
-
-**Regional hotspots:**
-- **North East:** 11.5 offences per 1,000 people (35% above national average of 7.4) -- epicentre of the crisis
-- **London:** Highest proportion of shoppers witnessing abuse (32%); shoplifting up 54% YoY; Met has flagged 32 priority areas
-- **Yorkshire & Humberside:** Second highest for witnessed abuse (26%)
-- **Edinburgh:** Ongoing spate; multiple arrests in March
-
-**Organised retail crime:** Small coordinated groups targeting multiple stores daily using sweep-the-shelf tactics, moving across county lines. 3,624 shops raided for illegal cigarettes/vapes in 2024/25.
-
-**Positive developments:** Record GBP 313m invested in crime prevention by convenience retailers; charges up 21%; Crime and Policing Bill creating standalone offence for assaulting shop workers and removing GBP 200 prosecution threshold.
-
-### Sporting Events: March Review & April Preview
-
-**March 2026 (Completed):**
-
-| Event | Location | Retail Impact |
-|---|---|---|
-| **Six Nations Rugby** | Multiple | France won; England finished 5th (worst ever); Cardiff recorded lowest-ever Six Nations attendance (57,744) signalling reduced match-day hospitality spend in Welsh capital |
-| **Cheltenham Festival** | Gloucestershire | 218,839 attendance (down 22% vs 2022 record); Ladies' Day lowest since 1993; but average attendee spend GBP 697; hotels 650% above normal rates within 30 miles |
-
-**April 2026 (Upcoming):**
-
-| Date | Event | Location | Expected Impact |
+| Date | Event | Location | Retail Impact |
 |---|---|---|---|
-| 4 April | **The Boat Race** | London (Putney-Mortlake) | Pub/hospitality uplift along Thames; thousands of spectators |
-| 5 April | **Easter Sunday** | Nationwide | GBP 2.39bn total Easter spend; peak grocery and gifting |
-| 9-11 April | **Grand National** | Aintree, Liverpool | Major inbound travel to Merseyside; fashion, hospitality, betting spend; Ladies' Day fashion retail boost |
-| 10-27 April | **Premier League matchweeks 32-34** | Nationwide | Key matches: Chelsea v Man City (13 Apr), Chelsea v Man Utd (18 Apr); snack/drinks uplift (48% consume snacks during live sport; sharing formats = 70% of salty snack sales) |
-| 18 Apr - 4 May | **World Snooker Championship** | Sheffield | 2+ weeks of hospitality/retail uplift in Sheffield city centre |
-| 26 April | **London Marathon** | London | Major sports retail uplift; health/wellness category boost; route-area footfall disruption and surge |
+| 4 May | Early May Bank Holiday | Nationwide | Extended weekend; weather-dependent footfall |
+| 4 May | World Snooker Championship Final | Crucible, Sheffield | Sheffield city centre hospitality boost |
+| 7-10 May | Premier League run-in | Multiple venues | Relegation battle (Spurs, Wolves, Burnley) drives matchday spend |
+| 16 May | **FA Cup Final** | Wembley, London | Major footfall event for Wembley Park store; merchandise/hospitality spend |
+| 25 May | Spring Bank Holiday | Nationwide | Start of half-term week; extended break |
+| 25-29 May | **School Half-Term** (England/Wales) | Nationwide | Family spending uplift; travel, leisure, eating out |
+| 30 May | UEFA Champions League Final | -- | Pub/bar spend boost; TV sales potential |
+| Ongoing | Premier League Season Finale | Multiple venues | Final matchday spending surge |
 
-**Premier League storyline:** Tottenham in genuine relegation danger (yet to win in 2026); Wolves and Burnley in drop zone. This intensifies matchday engagement and emotional spending in affected regions.
+### Crime & Security
 
-### Regional Regeneration & Local Political
+Retail crime remains elevated heading into the summer months. Key developments:
+- Crime and Policing Bill progressing through Parliament -- standalone offence for assaulting shop workers
+- Charges for shoplifting up 21% but incidents still at record levels (20m+ per year)
+- GBP 313m invested in crime prevention by convenience retailers
+- North East remains the epicentre (11.5 offences per 1,000 people)
+- Organised retail crime gangs increasingly targeting high-value, easy-to-resell goods
 
-**Local elections:** 7 May 2026 across 4,851 seats in 134 English councils. Major local government reorganisation underway (East/West Surrey replacing 12 existing councils; proposals for Essex, Hampshire, Norfolk, Suffolk).
+### Regional Developments
 
-**Town centre regeneration highlights:**
-- **Huddersfield:** "Our Cultural Heart" Phase 1 (Food Hall & Library) opening Summer 2026
-- **Birmingham:** Paradise project attracting PwC, Mazars, DLA Piper
-- **Leeds:** South Bank project to double city centre footprint
-- **Northampton BID:** Renewed with 82% business support, widened catchment from 1 April
-- Nearly 100 BIDs now operating across the UK
+- **Oxford Street:** Pedestrianisation construction progressing; target September 2026 for traffic-free zone
+- **Brent Cross:** GBP 100m redevelopment on track; Sheffield Hallam campus opening summer 2026
+- **Leeds Trinity:** Footasylum opening (12,000 sq ft) in May; Schuh relocating from Briggate
+- **Cardiff:** GBP 17m city square opening expected 2026
+- **Milton Keynes:** Outperforming nationally; Midsummer Place redevelopment continuing
+- **Sheffield Meadowhall:** Pull & Bear and Stradivarius (Inditex) opening first Yorkshire stores
 
 ---
 
-## 11. Calendar & Trading Shape: April 2026
+## 11. May 2026: Calendar & Trading Shape
 
 ### Key Dates
 
-| Date | Event | Retail Significance |
+| Date | Event | Impact |
 |---|---|---|
-| 1 April | Business rates revaluation & new multipliers | Cost pressure on retailers |
-| 1 April | Packaging EPR labelling requirements live | Compliance deadline |
-| 1 April | Northampton BID expansion | Local footfall initiative |
-| 3 April | Good Friday (Bank Holiday) | Peak Easter trading begins; school holidays start |
-| 4 April | The Boat Race | London hospitality uplift |
-| 5 April | Easter Sunday | GBP 2.39bn spend peak |
-| 6 April | Easter Monday (Bank Holiday) | Extended trading; travel/leisure spend |
-| 6 April | Employment Rights Act provisions active | NLW, SSP, family leave changes |
-| 7 April | Fair Work Agency launches | New enforcement body |
-| 9-11 April | Grand National, Aintree | Liverpool/Merseyside hospitality peak |
-| 13 April | School holidays end (most areas) | Return to normal footfall patterns |
-| 18 April | World Snooker starts, Sheffield | 2-week hospitality uplift |
-| 22-23 April | Retail Technology Show, ExCeL London | Industry event; 450+ exhibitors |
-| 24 April | ONS March 2026 Retail Sales release | Key data point |
-| 26 April | London Marathon | Sports retail; route disruption |
-| 30 April | Bank of England MPC decision | Rate decision (consensus: hold at 3.75%) |
+| 1 May | Newsletter publication | -- |
+| 4 May | **Early May Bank Holiday** | Extended weekend; weather-critical |
+| 4 May | Ramadan expected to end (Eid al-Fitr) | Significant spend uplift in Muslim communities; food, clothing, gifts |
+| 7 May | **Local Elections** (4,851 seats, 134 councils) | Potential footfall disruption; political uncertainty |
+| 7 May | JD Sports FY Results | Sector sentiment indicator |
+| 10 May | Mother's Day (US) -- not UK | International online orders potential |
+| 13 May | boohoo FY Results | Online fashion bellwether |
+| 14 May | ONS CPI April 2026 | First full post-Iran-conflict inflation reading |
+| 16 May | **FA Cup Final** (Wembley) | Major London event; Wembley Park store |
+| 22 May | **ONS Retail Sales** (April data) | Critical: first post-Easter, post-cost-wall reading |
+| 25 May | **Spring Bank Holiday** | Start of half-term |
+| 25-29 May | **School Half-Term** (England/Wales) | Peak family trading week |
+| 27 May | **M&S FY Results** | Key sector earnings |
+| 30 May | Champions League Final | Hospitality/pub spend |
 
-### School Holidays (Easter 2026)
+### Trading Shape Expectations
 
-Most schools break up around 30 March - 3 April and return 13-20 April. This two-week window is critical for:
-- Family-oriented retail (clothing, toys, outdoor)
-- Leisure and tourism spend
-- Grocery volumes (meal occasions shift from workplace to home)
-- Regional footfall patterns (coastal/tourist areas benefit)
+**Week 1 (1-4 May):** Subdued start; bank holiday weekend trading weather-dependent. Eid al-Fitr celebrations could provide localised uplift. Local elections on 7 May may suppress weekday footfall.
 
-### Ramadan 2026
+**Week 2 (5-11 May):** JD Sports results set tone for discretionary retail. CPI April data watch. Premier League penultimate weekend.
 
-Ramadan runs approximately 28 February - 30 March 2026, with Eid al-Fitr around 30-31 March. Key for food retail (pre-dawn and iftar meal occasions), modest fashion, and gifting. Areas with significant Muslim populations (Tower Hamlets, Birmingham, Bradford, Leicester) see distinct trading patterns.
+**Week 3 (12-18 May):** FA Cup Final weekend (16 May) drives London footfall. boohoo results test online fashion sentiment. Building anticipation for half-term.
 
-### Trading Shape Drivers
+**Week 4 (19-25 May):** ONS April retail sales (22 May) -- the most important data release of the month. Spring Bank Holiday (25 May) kicks off half-term week.
 
-1. **Easter weekend (3-6 April):** THE peak trading event -- grocery, gifting, seasonal clothing, garden/outdoor, DIY, travel. Earlier Easter = cooler weather = weaker garden/outdoor vs 2025.
-2. **School holidays (w/c 30 March to w/c 13 April):** Family spend shifts; coastal/leisure destinations benefit; commuter-belt footfall weakens.
-3. **Grand National (9-11 April):** Merseyside hospitality peak; national betting/entertainment uplift.
-4. **April cost wall:** NLW, business rates, employer NI increases all land simultaneously. Retailers likely to offset via price increases, reduced hours, slower recruitment.
-5. **Energy price uncertainty:** Middle East conflict trajectory will dominate sentiment. Every week of elevated oil/gas prices compounds the consumer squeeze.
-6. **Weather:** If April delivers sunshine, expect a meaningful footfall and seasonal category bounce. If wet conditions persist, expect continued online migration.
+**Week 5 (26-31 May):** Half-term trading peak. M&S results (27 May). Champions League Final (30 May). Best weather expected later in month.
 
 ---
 
-## 12. Outlook & Projections
+## 12. May 2026: Outlook & Risk Assessment
 
-### April 2026 Retail Sales Projection
+### Sector Outlook
 
-We expect March 2026 retail sales (releasing 24 April) to show a modest recovery from February's -0.4%, driven by Mother's Day spending and an improving weather trajectory into late March. However, the Easter shift means April 2026 will capture the holiday uplift that fell in April 2025.
-
-**Headwinds:**
-- Consumer confidence at near-year lows (GfK -21)
-- Energy price shock still propagating (petrol +10%, gas +75%)
-- April cost wall (business rates, NLW, employer NI, EPR)
-- Unemployment rising (5.2%, trending toward 5.3%)
-- Sterling weakness raising import costs
-
-**Tailwinds:**
-- Easter GBP 2.39bn spend peak falls in early April
-- Energy price cap falls 7% in April (some relief)
-- NLW increase puts money in low-income pockets
-- State Pension +4.8% supports older consumer spend
-- Grand National, London Marathon, Premier League climax drive event-led spend
-- If weather improves, seasonal categories (garden, outdoor, clothing) bounce
-
-### Sector Consensus Forecasts
-
-| Metric | Q2 2026 Est. | H2 2026 Est. | Commentary |
-|---|---|---|---|
-| UK Retail Sales Growth | +0.5-1.0% | +0.3-0.8% | Weak volumes; modest price-driven growth |
-| CPI Inflation | 3.0-3.5% | 3.0-4.0% | Energy pass-through; OECD warns 4% |
-| Bank Rate | 3.75% (hold) | 3.75-4.00% | Hikes possible if inflation persists |
-| Consumer Confidence (GfK) | -20 to -25 | -15 to -25 | Dependent on conflict resolution |
-| Unemployment | 5.2-5.5% | 5.3-5.5% | Continued upward pressure |
+| Segment | May Outlook | Confidence |
+|---|---|---|
+| Grocery/Food | Resilient; share gains continue | High |
+| Value Retail (Primark, Aldi, Lidl) | Steady; trading down benefits | High |
+| Fashion/Clothing | Under pressure; CBI collapse | Low |
+| Home/DIY | Weather-dependent; bank holiday potential | Medium |
+| Online/Digital | Mixed; CBI online at -51 | Low |
+| Hospitality/Leisure | Half-term boost vs cost-of-living drag | Medium |
 
 ### Risk Matrix
 
-| Risk | Severity | Probability | Commentary |
+| Risk | Probability | Impact | Mitigation |
 |---|---|---|---|
-| Middle East escalation / oil above $130 | Critical | Medium | Would push inflation above 4%; BoE forced to hike; recession risk |
-| Ceasefire / de-escalation | Positive | Low-Medium | Would trigger rapid rate cut expectations; consumer relief |
-| Wet April weather | High | Medium | Suppresses Easter trading, footfall, seasonal categories |
-| Cyber attacks on retailers | High | Medium | M&S cyberattack cost GBP 300m+ in lost profit; sector remains vulnerable |
-| Further retailer failures | Moderate | High | Cost wall accelerates consolidation; job losses compound consumer weakness |
-| NLW/employer NI impact on hours | Moderate | High | Reduced trading hours, self-checkout expansion, automation acceleration |
+| CBI decline translates to actual May sales collapse | High | Severe | Monitor weekly card data; adjust stock/staffing |
+| Energy price cap increase (July) spooks consumers early | High | High | Focus on value messaging; promote essentials |
+| BoE rate hike at June meeting | Medium | High | Rate held in April but Pill dissented; watch inflation data |
+| Wet weather dampens bank holiday/half-term trading | Medium | Medium | Shift marketing to online; indoor leisure promotion |
+| Further store closures announced | High | Medium | Accelerate digital; review lease commitments |
+| Geopolitical escalation (Iran conflict widens) | Medium | Severe | Scenario planning; supply chain diversification |
+
+### Key Data Releases to Watch
+
+| Date | Release | Why It Matters |
+|---|---|---|
+| 7 May | JD Sports FY Results | Discretionary retail bellwether |
+| 13 May | Labour Market (Mar-Apr) | Unemployment trajectory; wage growth |
+| 14 May | CPI April 2026 | First full month of Iran-conflict inflation |
+| 22 May | ONS Retail Sales April | Post-Easter, post-cost-wall reality check |
+| 27 May | M&S FY Results | Grocery vs clothing divergence |
+| 19 Jun | Next BoE Rate Decision | June meeting critical if May CPI elevated |
+
+### Projections for May
+
+1. **ONS April retail sales (due 22 May)** will likely show a sharp reversal from March's +0.7%, as Easter timing unwinds and the April cost wall bites. Expect negative MoM.
+2. **CPI April (due 14 May)** expected to remain at or above 3.3%, possibly approaching 3.5% as fuel costs feed through fully.
+3. **Consumer confidence** likely to remain around -25 or deteriorate further; the CBI's -60 May outlook is the most alarming forward signal.
+4. **Grocery outperformance** will continue: Tesco, Sainsbury's and M&S food are structurally winning share from Asda and Morrisons.
+5. **Half-term week (25-29 May)** represents the best trading opportunity of the month, but is weather-dependent and constrained by household budgets.
+6. **Online retail** faces a correction: CBI online balance crashed to -51; expect pressure on pure-play and marketplace retailers.
 
 ---
 
@@ -715,45 +536,35 @@ We expect March 2026 retail sales (releasing 24 April) to show a modest recovery
 
 ### Core Data Sources
 
-| Source | Data Provided | Frequency |
+| Source | Data | Frequency |
 |---|---|---|
-| **Office for National Statistics (ONS)** | Retail sales, CPI inflation, employment, GDP, consumer spending trends | Monthly/Quarterly |
-| **Bank of England** | Interest rates, monetary policy, consumer credit, Agents' Summary | 8x per year (MPC); monthly (Agents) |
+| **ONS** | Retail sales, CPI/CPIH, labour market, GDP, consumer trends | Monthly |
+| **Bank of England** | Base rate, monetary policy, consumer credit, Agents' Summary | Monthly/Quarterly |
 | **GfK / NIQ** | Consumer Confidence Barometer | Monthly |
-| **British Retail Consortium (BRC)** | Retail Sales Monitor, footfall, crime data | Monthly |
-| **Kantar** | Grocery market share, shopper behaviour | Monthly (4/12 week rolling) |
+| **BRC-KPMG** | Retail Sales Monitor, like-for-like sales | Monthly |
+| **CBI** | Distributive Trades Survey (retail sales balance) | Monthly |
+| **Kantar** | Grocery market share, shopper behaviour | Monthly |
+| **Barclays** | Consumer card spending (covers ~40% of UK transactions) | Monthly |
 | **Deloitte** | Consumer Tracker, spending intentions | Quarterly |
-| **Barclays** | Card transaction data, category spend, consumer confidence | Monthly |
-| **Met Office** | Weather data, temperature vs norms, rainfall | Continuous |
-| **OBR** | Fiscal forecasts, growth projections | Twice yearly |
-| **OECD** | International growth comparisons | Quarterly |
+| **Met Office** | Weather outlook, temperature vs seasonal norms | Ongoing |
+| **LSEG / Refinitiv** | Share prices, earnings data, analyst estimates | Daily |
 
 ### Calendar & Events Sources
 
-- UK Government bank holiday calendar
-- School term dates (regional council websites)
-- Religious calendar (Easter, Ramadan, Eid timing)
-- Premier League / FA fixture schedules
-- Major sporting event calendars (VisitBritain, Ticketmaster)
-
-### News & Analysis Sources
-
-- BBC News, Reuters, Financial Times
-- Retail Gazette, The Grocer, Retail Week
-- House of Commons Library research briefings
-- Legal publications (Lexology, Osborne Clarke, Browne Jacobson)
+| Source | Data |
+|---|---|
+| UK Government | Bank holiday calendar |
+| Local authorities | School term dates |
+| Islamic Society of Britain | Ramadan / Eid dates |
+| Premier League / FA | Fixture calendar |
+| VisitBritain | Sporting and cultural events calendar |
 
 ### Methodology
 
-This newsletter synthesises publicly available data from the sources listed above. Retail sales figures are from ONS (volume-based) and BRC-KPMG (value-based). Consumer spend data from Barclays covers ~40% of UK card transactions. Kantar grocery data is based on a panel of 30,000 households. GfK confidence data is from a sample of 2,001 UK adults. All projections represent editorial assessment based on available data and should not be treated as financial advice.
+This newsletter synthesises publicly available data from the sources listed above. PESTEL analysis covers the reporting month (April 2026 actuals). Forward-looking sections (8-12) focus on the coming month (May 2026). Retail sales figures are from ONS (volume-based) and BRC-KPMG (value-based). Consumer spend data from Barclays covers ~40% of UK card transactions. Kantar grocery data is based on a panel of 30,000 households. GfK confidence data is from a sample of 2,001 UK adults. All projections represent editorial assessment based on available data and should not be treated as financial advice.
 
 ---
 
-## Disclaimer
-
-This newsletter is produced for informational purposes only and does not constitute financial advice. All data is sourced from publicly available reports and may be subject to revision. Past performance is not indicative of future results. Readers should conduct their own research and consult a qualified financial adviser before making investment decisions.
-
----
 
 ## Appendix: Kouriten Store Network -- Regional Insights (32 Locations)
 
