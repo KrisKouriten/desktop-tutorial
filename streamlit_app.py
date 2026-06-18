@@ -4,7 +4,7 @@ Weekly Allocation Model — Streamlit App
 Interactive web interface for running store allocations.
 
 Usage:
-    streamlit run app.py
+    streamlit run streamlit_app.py
 """
 import io
 import os
